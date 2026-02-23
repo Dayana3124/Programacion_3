@@ -1,0 +1,7 @@
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Actividades\Actividades\bin\Debug\Actividades.exe.config
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Actividades\Actividades\bin\Debug\Actividades.exe
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Actividades\Actividades\bin\Debug\Actividades.pdb
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Actividades\Actividades\obj\Debug\Actividades.csproj.AssemblyReference.cache
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Actividades\Actividades\obj\Debug\Actividades.csproj.CoreCompileInputs.cache
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Actividades\Actividades\obj\Debug\Actividades.exe
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Actividades\Actividades\obj\Debug\Actividades.pdb
