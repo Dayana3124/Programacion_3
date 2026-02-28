@@ -1,0 +1,7 @@
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Ejercicios_POO\Ejercicios_POO\obj\Debug\Ejercicios_POO.csproj.AssemblyReference.cache
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Ejercicios_POO\Ejercicios_POO\obj\Debug\Ejercicios_POO.csproj.CoreCompileInputs.cache
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Ejercicios_POO\Ejercicios_POO\bin\Debug\Ejercicios_POO.exe.config
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Ejercicios_POO\Ejercicios_POO\bin\Debug\Ejercicios_POO.exe
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Ejercicios_POO\Ejercicios_POO\bin\Debug\Ejercicios_POO.pdb
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Ejercicios_POO\Ejercicios_POO\obj\Debug\Ejercicios_POO.exe
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Ejercicios_POO\Ejercicios_POO\obj\Debug\Ejercicios_POO.pdb

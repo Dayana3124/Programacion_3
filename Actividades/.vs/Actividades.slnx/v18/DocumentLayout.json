@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Actividades\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6292EA23-2E2D-4F35-BFCC-F769D11759BD}|Actividades\\Actividades.csproj|c:\\users\\daka3\\onedrive\\escritorio\\trabajos karol\\programacion_3\\actividades\\actividades\\ejercicios\\semaforo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6292EA23-2E2D-4F35-BFCC-F769D11759BD}|Actividades\\Actividades.csproj|solutionrelative:actividades\\ejercicios\\semaforo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Actividades\\Actividades\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Actividades\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6292EA23-2E2D-4F35-BFCC-F769D11759BD}|Actividades\\Actividades.csproj|c:\\users\\daka3\\onedrive\\escritorio\\trabajos karol\\programacion_3\\actividades\\actividades\\ejercicios\\correo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6292EA23-2E2D-4F35-BFCC-F769D11759BD}|Actividades\\Actividades.csproj|solutionrelative:actividades\\ejercicios\\correo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Actividades\\Actividades\\Ejercicios\\Semaforo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Actividades\\Ejercicios\\Semaforo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6292EA23-2E2D-4F35-BFCC-F769D11759BD}|Actividades\\Actividades.csproj|c:\\users\\daka3\\onedrive\\escritorio\\trabajos karol\\programacion_3\\actividades\\actividades\\ejercicios\\aforo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6292EA23-2E2D-4F35-BFCC-F769D11759BD}|Actividades\\Actividades.csproj|solutionrelative:actividades\\ejercicios\\aforo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Actividades\\Actividades\\Ejercicios\\Correo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Actividades\\Ejercicios\\Correo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6292EA23-2E2D-4F35-BFCC-F769D11759BD}|Actividades\\Actividades.csproj|c:\\users\\daka3\\onedrive\\escritorio\\trabajos karol\\programacion_3\\actividades\\actividades\\ejercicios\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6292EA23-2E2D-4F35-BFCC-F769D11759BD}|Actividades\\Actividades.csproj|solutionrelative:actividades\\ejercicios\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Actividades\\Actividades\\Ejercicios\\Aforo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Actividades\\Ejercicios\\Aforo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6292EA23-2E2D-4F35-BFCC-F769D11759BD}|Actividades\\Actividades.csproj|c:\\users\\daka3\\onedrive\\escritorio\\trabajos karol\\programacion_3\\actividades\\actividades\\ejercicios\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6292EA23-2E2D-4F35-BFCC-F769D11759BD}|Actividades\\Actividades.csproj|solutionrelative:actividades\\ejercicios\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Actividades\\Actividades\\Ejercicios\\Calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Actividades\\Ejercicios\\Calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6292EA23-2E2D-4F35-BFCC-F769D11759BD}|Actividades\\Actividades.csproj|c:\\users\\daka3\\onedrive\\escritorio\\trabajos karol\\programacion_3\\actividades\\actividades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6292EA23-2E2D-4F35-BFCC-F769D11759BD}|Actividades\\Actividades.csproj|solutionrelative:actividades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Actividades\\Actividades\\Ejercicios\\Usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Actividades\\Ejercicios\\Usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +34,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Semaforo.cs",
               "DocumentMoniker": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Actividades\\Actividades\\Ejercicios\\Semaforo.cs",
               "RelativeDocumentMoniker": "Actividades\\Ejercicios\\Semaforo.cs",
@@ -46,12 +46,11 @@
               "RelativeToolTip": "Actividades\\Ejercicios\\Semaforo.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAhwCoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-23T13:57:02.023Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-23T13:57:02.023Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Correo.cs",
               "DocumentMoniker": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Actividades\\Actividades\\Ejercicios\\Correo.cs",
               "RelativeDocumentMoniker": "Actividades\\Ejercicios\\Correo.cs",
@@ -59,12 +58,11 @@
               "RelativeToolTip": "Actividades\\Ejercicios\\Correo.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-23T13:56:07.251Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-23T13:56:07.251Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Aforo.cs",
               "DocumentMoniker": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Actividades\\Actividades\\Ejercicios\\Aforo.cs",
               "RelativeDocumentMoniker": "Actividades\\Ejercicios\\Aforo.cs",
@@ -72,25 +70,23 @@
               "RelativeToolTip": "Actividades\\Ejercicios\\Aforo.cs",
               "ViewState": "AgIAACoAAAA4MzMzMzMLwEAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-23T13:55:07.772Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-23T13:55:07.772Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Calculadora.cs",
               "DocumentMoniker": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Actividades\\Actividades\\Ejercicios\\Calculadora.cs",
               "RelativeDocumentMoniker": "Actividades\\Ejercicios\\Calculadora.cs",
               "ToolTip": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Actividades\\Actividades\\Ejercicios\\Calculadora.cs",
               "RelativeToolTip": "Actividades\\Ejercicios\\Calculadora.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAADAmJmZmZkuwDIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-23T13:51:16.301Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-23T13:51:16.301Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Actividades\\Actividades\\Ejercicios\\Usuario.cs",
               "RelativeDocumentMoniker": "Actividades\\Ejercicios\\Usuario.cs",
@@ -98,18 +94,17 @@
               "RelativeToolTip": "Actividades\\Ejercicios\\Usuario.cs",
               "ViewState": "AgIAADkAAAAAPDMzMzMHwEEAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-23T13:47:09.057Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-23T13:47:09.057Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Actividades\\Actividades\\Program.cs",
               "RelativeDocumentMoniker": "Actividades\\Program.cs",
               "ToolTip": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Actividades\\Actividades\\Program.cs",
               "RelativeToolTip": "Actividades\\Program.cs",
-              "ViewState": "AgIAABkAAACAzczMzMwewBIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-23T13:45:58.428Z",
               "EditorCaption": ""

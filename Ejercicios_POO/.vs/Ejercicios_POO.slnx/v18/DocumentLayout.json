@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Ejercicios_POO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C430B18B-FF6F-43AB-9D53-01760C776D88}|Ejercicios_POO\\Ejercicios_POO.csproj|c:\\users\\daka3\\onedrive\\escritorio\\trabajos karol\\programacion_3\\ejercicios_poo\\ejercicios_poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C430B18B-FF6F-43AB-9D53-01760C776D88}|Ejercicios_POO\\Ejercicios_POO.csproj|solutionrelative:ejercicios_poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C430B18B-FF6F-43AB-9D53-01760C776D88}|Ejercicios_POO\\Ejercicios_POO.csproj|C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Ejercicios_POO\\ejercicios_poo\\actividad\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C430B18B-FF6F-43AB-9D53-01760C776D88}|Ejercicios_POO\\Ejercicios_POO.csproj|solutionrelative:ejercicios_poo\\actividad\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C430B18B-FF6F-43AB-9D53-01760C776D88}|Ejercicios_POO\\Ejercicios_POO.csproj|c:\\users\\daka3\\onedrive\\escritorio\\trabajos karol\\programacion_3\\ejercicios_poo\\ejercicios_poo\\actividad\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C430B18B-FF6F-43AB-9D53-01760C776D88}|Ejercicios_POO\\Ejercicios_POO.csproj|solutionrelative:ejercicios_poo\\actividad\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C430B18B-FF6F-43AB-9D53-01760C776D88}|Ejercicios_POO\\Ejercicios_POO.csproj|c:\\users\\daka3\\onedrive\\escritorio\\trabajos karol\\programacion_3\\ejercicios_poo\\ejercicios_poo\\actividad\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C430B18B-FF6F-43AB-9D53-01760C776D88}|Ejercicios_POO\\Ejercicios_POO.csproj|solutionrelative:ejercicios_poo\\actividad\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Ejercicios_POO\\Ejercicios_POO\\Actividad\\Producto.cs",
+              "RelativeDocumentMoniker": "Ejercicios_POO\\Actividad\\Producto.cs",
+              "ToolTip": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Ejercicios_POO\\Ejercicios_POO\\Actividad\\Producto.cs",
+              "RelativeToolTip": "Ejercicios_POO\\Actividad\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T00:43:58.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Ejercicios_POO\\Ejercicios_POO\\Actividad\\Estudiante.cs",
+              "RelativeDocumentMoniker": "Ejercicios_POO\\Actividad\\Estudiante.cs",
+              "ToolTip": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Ejercicios_POO\\Ejercicios_POO\\Actividad\\Estudiante.cs",
+              "RelativeToolTip": "Ejercicios_POO\\Actividad\\Estudiante.cs",
+              "ViewState": "AgIAAGMAAABAVmZmZmYUwHQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T12:14:18.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cuenta.cs",
+              "DocumentMoniker": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Ejercicios_POO\\Ejercicios_POO\\Actividad\\Cuenta.cs",
+              "RelativeDocumentMoniker": "Ejercicios_POO\\Actividad\\Cuenta.cs",
+              "ToolTip": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Ejercicios_POO\\Ejercicios_POO\\Actividad\\Cuenta.cs",
+              "RelativeToolTip": "Ejercicios_POO\\Actividad\\Cuenta.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAABgPY0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T11:35:29.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Ejercicios_POO\\Ejercicios_POO\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicios_POO\\Program.cs",
+              "ToolTip": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Ejercicios_POO\\Ejercicios_POO\\Program.cs",
+              "RelativeToolTip": "Ejercicios_POO\\Program.cs",
+              "ViewState": "AgIAADAAAABANDMzMzMLwDoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T11:30:51.316Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
