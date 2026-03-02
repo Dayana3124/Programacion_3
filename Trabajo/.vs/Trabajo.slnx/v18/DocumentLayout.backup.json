@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Trabajo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1FAE9D0-4D07-463E-818F-12343C6B43E5}|Trabajo\\Trabajo.csproj|C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Trabajo\\trabajo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1FAE9D0-4D07-463E-818F-12343C6B43E5}|Trabajo\\Trabajo.csproj|solutionrelative:trabajo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1FAE9D0-4D07-463E-818F-12343C6B43E5}|Trabajo\\Trabajo.csproj|c:\\users\\daka3\\onedrive\\escritorio\\trabajos karol\\programacion_3\\trabajo\\trabajo\\modelos\\podcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1FAE9D0-4D07-463E-818F-12343C6B43E5}|Trabajo\\Trabajo.csproj|solutionrelative:trabajo\\modelos\\podcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1FAE9D0-4D07-463E-818F-12343C6B43E5}|Trabajo\\Trabajo.csproj|C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Trabajo\\trabajo\\modelos\\cancion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1FAE9D0-4D07-463E-818F-12343C6B43E5}|Trabajo\\Trabajo.csproj|solutionrelative:trabajo\\modelos\\cancion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1FAE9D0-4D07-463E-818F-12343C6B43E5}|Trabajo\\Trabajo.csproj|C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Trabajo\\trabajo\\interfaces\\ireproductor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1FAE9D0-4D07-463E-818F-12343C6B43E5}|Trabajo\\Trabajo.csproj|solutionrelative:trabajo\\interfaces\\ireproductor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Podcast.cs",
+              "DocumentMoniker": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Trabajo\\Trabajo\\Modelos\\Podcast.cs",
+              "RelativeDocumentMoniker": "Trabajo\\Modelos\\Podcast.cs",
+              "ToolTip": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Trabajo\\Trabajo\\Modelos\\Podcast.cs",
+              "RelativeToolTip": "Trabajo\\Modelos\\Podcast.cs",
+              "ViewState": "AgIAAAwAAAAAjpmZmZn5vx4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T13:51:41.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cancion.cs",
+              "DocumentMoniker": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Trabajo\\Trabajo\\Modelos\\Cancion.cs",
+              "RelativeDocumentMoniker": "Trabajo\\Modelos\\Cancion.cs",
+              "ToolTip": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Trabajo\\Trabajo\\Modelos\\Cancion.cs",
+              "RelativeToolTip": "Trabajo\\Modelos\\Cancion.cs",
+              "ViewState": "AgIAAAMAAAAAMDMzMzMLwAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T13:50:59.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IReproductor.cs",
+              "DocumentMoniker": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Trabajo\\Trabajo\\Interfaces\\IReproductor.cs",
+              "RelativeDocumentMoniker": "Trabajo\\Interfaces\\IReproductor.cs",
+              "ToolTip": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Trabajo\\Trabajo\\Interfaces\\IReproductor.cs",
+              "RelativeToolTip": "Trabajo\\Interfaces\\IReproductor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T13:48:48.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Trabajo\\Trabajo\\Program.cs",
+              "RelativeDocumentMoniker": "Trabajo\\Program.cs",
+              "ToolTip": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Trabajo\\Trabajo\\Program.cs*",
+              "RelativeToolTip": "Trabajo\\Program.cs*",
+              "ViewState": "AgIAAEMAAADAZmZmZmYwwEcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T13:47:22.366Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
