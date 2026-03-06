@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Biblioteca_Digital\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C730DCD8-7D5C-4B8B-A7CA-363650742600}|Biblioteca_Digital\\Biblioteca_Digital.csproj|C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Biblioteca_Digital\\biblioteca_digital\\enum\\tipocategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C730DCD8-7D5C-4B8B-A7CA-363650742600}|Biblioteca_Digital\\Biblioteca_Digital.csproj|solutionrelative:biblioteca_digital\\enum\\tipocategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C730DCD8-7D5C-4B8B-A7CA-363650742600}|Biblioteca_Digital\\Biblioteca_Digital.csproj|C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Biblioteca_Digital\\biblioteca_digital\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C730DCD8-7D5C-4B8B-A7CA-363650742600}|Biblioteca_Digital\\Biblioteca_Digital.csproj|solutionrelative:biblioteca_digital\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C730DCD8-7D5C-4B8B-A7CA-363650742600}|Biblioteca_Digital\\Biblioteca_Digital.csproj|C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Biblioteca_Digital\\biblioteca_digital\\interfaces\\iprestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C730DCD8-7D5C-4B8B-A7CA-363650742600}|Biblioteca_Digital\\Biblioteca_Digital.csproj|solutionrelative:biblioteca_digital\\interfaces\\iprestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C730DCD8-7D5C-4B8B-A7CA-363650742600}|Biblioteca_Digital\\Biblioteca_Digital.csproj|C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Biblioteca_Digital\\biblioteca_digital\\modelo\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C730DCD8-7D5C-4B8B-A7CA-363650742600}|Biblioteca_Digital\\Biblioteca_Digital.csproj|solutionrelative:biblioteca_digital\\modelo\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C730DCD8-7D5C-4B8B-A7CA-363650742600}|Biblioteca_Digital\\Biblioteca_Digital.csproj|C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Biblioteca_Digital\\biblioteca_digital\\modelo\\revista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C730DCD8-7D5C-4B8B-A7CA-363650742600}|Biblioteca_Digital\\Biblioteca_Digital.csproj|solutionrelative:biblioteca_digital\\modelo\\revista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C730DCD8-7D5C-4B8B-A7CA-363650742600}|Biblioteca_Digital\\Biblioteca_Digital.csproj|c:\\users\\daka3\\onedrive\\escritorio\\trabajos karol\\programacion_3\\biblioteca_digital\\biblioteca_digital\\modelo\\audiolibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C730DCD8-7D5C-4B8B-A7CA-363650742600}|Biblioteca_Digital\\Biblioteca_Digital.csproj|solutionrelative:biblioteca_digital\\modelo\\audiolibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C730DCD8-7D5C-4B8B-A7CA-363650742600}|Biblioteca_Digital\\Biblioteca_Digital.csproj|C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Biblioteca_Digital\\biblioteca_digital\\modelo\\materialbiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C730DCD8-7D5C-4B8B-A7CA-363650742600}|Biblioteca_Digital\\Biblioteca_Digital.csproj|solutionrelative:biblioteca_digital\\modelo\\materialbiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MaterialBiblioteca.cs",
+              "DocumentMoniker": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Biblioteca_Digital\\Biblioteca_Digital\\Modelo\\MaterialBiblioteca.cs",
+              "RelativeDocumentMoniker": "Biblioteca_Digital\\Modelo\\MaterialBiblioteca.cs",
+              "ToolTip": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Biblioteca_Digital\\Biblioteca_Digital\\Modelo\\MaterialBiblioteca.cs",
+              "RelativeToolTip": "Biblioteca_Digital\\Modelo\\MaterialBiblioteca.cs",
+              "ViewState": "AgIAABoAAAAAnJmZmZkfwB8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T20:46:50.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AudioLibro.cs",
+              "DocumentMoniker": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Biblioteca_Digital\\Biblioteca_Digital\\Modelo\\AudioLibro.cs",
+              "RelativeDocumentMoniker": "Biblioteca_Digital\\Modelo\\AudioLibro.cs",
+              "ToolTip": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Biblioteca_Digital\\Biblioteca_Digital\\Modelo\\AudioLibro.cs",
+              "RelativeToolTip": "Biblioteca_Digital\\Modelo\\AudioLibro.cs",
+              "ViewState": "AgIAAAEAAAAABAAAAAAawBwAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T20:46:27.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Revista.cs",
+              "DocumentMoniker": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Biblioteca_Digital\\Biblioteca_Digital\\Modelo\\Revista.cs",
+              "RelativeDocumentMoniker": "Biblioteca_Digital\\Modelo\\Revista.cs",
+              "ToolTip": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Biblioteca_Digital\\Biblioteca_Digital\\Modelo\\Revista.cs",
+              "RelativeToolTip": "Biblioteca_Digital\\Modelo\\Revista.cs",
+              "ViewState": "AgIAAA8AAACAl5mZmZkbwBoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T20:45:56.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Biblioteca_Digital\\Biblioteca_Digital\\Modelo\\Libro.cs",
+              "RelativeDocumentMoniker": "Biblioteca_Digital\\Modelo\\Libro.cs",
+              "ToolTip": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Biblioteca_Digital\\Biblioteca_Digital\\Modelo\\Libro.cs",
+              "RelativeToolTip": "Biblioteca_Digital\\Modelo\\Libro.cs",
+              "ViewState": "AgIAADAAAACAmZmZmdkqwB4AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T20:45:40.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPrestable.cs",
+              "DocumentMoniker": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Biblioteca_Digital\\Biblioteca_Digital\\Interfaces\\IPrestable.cs",
+              "RelativeDocumentMoniker": "Biblioteca_Digital\\Interfaces\\IPrestable.cs",
+              "ToolTip": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Biblioteca_Digital\\Biblioteca_Digital\\Interfaces\\IPrestable.cs",
+              "RelativeToolTip": "Biblioteca_Digital\\Interfaces\\IPrestable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T20:45:02.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Biblioteca_Digital\\Biblioteca_Digital\\Program.cs",
+              "RelativeDocumentMoniker": "Biblioteca_Digital\\Program.cs",
+              "ToolTip": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Biblioteca_Digital\\Biblioteca_Digital\\Program.cs",
+              "RelativeToolTip": "Biblioteca_Digital\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T13:58:42.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TipoCategoria.cs",
+              "DocumentMoniker": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Biblioteca_Digital\\Biblioteca_Digital\\Enum\\TipoCategoria.cs",
+              "RelativeDocumentMoniker": "Biblioteca_Digital\\Enum\\TipoCategoria.cs",
+              "ToolTip": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Biblioteca_Digital\\Biblioteca_Digital\\Enum\\TipoCategoria.cs",
+              "RelativeToolTip": "Biblioteca_Digital\\Enum\\TipoCategoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T20:44:28.412Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
