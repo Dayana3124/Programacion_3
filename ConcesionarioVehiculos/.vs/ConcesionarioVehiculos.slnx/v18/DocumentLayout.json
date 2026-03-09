@@ -3,36 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\ConcesionarioVehiculos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7CE4EC82-88AF-413F-ABA4-0BFDCC74D475}|ConcesionarioVehiculos\\ConcesionarioVehiculos.csproj|C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\ConcesionarioVehiculos\\concesionariovehiculos\\modelo\\motocicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CE4EC82-88AF-413F-ABA4-0BFDCC74D475}|ConcesionarioVehiculos\\ConcesionarioVehiculos.csproj|solutionrelative:concesionariovehiculos\\modelo\\motocicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7CE4EC82-88AF-413F-ABA4-0BFDCC74D475}|ConcesionarioVehiculos\\ConcesionarioVehiculos.csproj|C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\ConcesionarioVehiculos\\concesionariovehiculos\\modelo\\camion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CE4EC82-88AF-413F-ABA4-0BFDCC74D475}|ConcesionarioVehiculos\\ConcesionarioVehiculos.csproj|solutionrelative:concesionariovehiculos\\modelo\\camion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7CE4EC82-88AF-413F-ABA4-0BFDCC74D475}|ConcesionarioVehiculos\\ConcesionarioVehiculos.csproj|C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\ConcesionarioVehiculos\\concesionariovehiculos\\modelo\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CE4EC82-88AF-413F-ABA4-0BFDCC74D475}|ConcesionarioVehiculos\\ConcesionarioVehiculos.csproj|solutionrelative:concesionariovehiculos\\modelo\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7CE4EC82-88AF-413F-ABA4-0BFDCC74D475}|ConcesionarioVehiculos\\ConcesionarioVehiculos.csproj|C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\ConcesionarioVehiculos\\concesionariovehiculos\\enums\\estadovehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7CE4EC82-88AF-413F-ABA4-0BFDCC74D475}|ConcesionarioVehiculos\\ConcesionarioVehiculos.csproj|solutionrelative:concesionariovehiculos\\enums\\estadovehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7CE4EC82-88AF-413F-ABA4-0BFDCC74D475}|ConcesionarioVehiculos\\ConcesionarioVehiculos.csproj|c:\\users\\daka3\\onedrive\\escritorio\\trabajos karol\\programacion_3\\concesionariovehiculos\\concesionariovehiculos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CE4EC82-88AF-413F-ABA4-0BFDCC74D475}|ConcesionarioVehiculos\\ConcesionarioVehiculos.csproj|solutionrelative:concesionariovehiculos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7CE4EC82-88AF-413F-ABA4-0BFDCC74D475}|ConcesionarioVehiculos\\ConcesionarioVehiculos.csproj|C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\ConcesionarioVehiculos\\concesionariovehiculos\\interfaces\\ivendible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7CE4EC82-88AF-413F-ABA4-0BFDCC74D475}|ConcesionarioVehiculos\\ConcesionarioVehiculos.csproj|solutionrelative:concesionariovehiculos\\interfaces\\ivendible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7CE4EC82-88AF-413F-ABA4-0BFDCC74D475}|ConcesionarioVehiculos\\ConcesionarioVehiculos.csproj|C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\ConcesionarioVehiculos\\concesionariovehiculos\\modelo\\camion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE4EC82-88AF-413F-ABA4-0BFDCC74D475}|ConcesionarioVehiculos\\ConcesionarioVehiculos.csproj|solutionrelative:concesionariovehiculos\\modelo\\camion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE4EC82-88AF-413F-ABA4-0BFDCC74D475}|ConcesionarioVehiculos\\ConcesionarioVehiculos.csproj|c:\\users\\daka3\\onedrive\\escritorio\\trabajos karol\\programacion_3\\concesionariovehiculos\\concesionariovehiculos\\enums\\tipocombustible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE4EC82-88AF-413F-ABA4-0BFDCC74D475}|ConcesionarioVehiculos\\ConcesionarioVehiculos.csproj|solutionrelative:concesionariovehiculos\\enums\\tipocombustible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE4EC82-88AF-413F-ABA4-0BFDCC74D475}|ConcesionarioVehiculos\\ConcesionarioVehiculos.csproj|c:\\users\\daka3\\onedrive\\escritorio\\trabajos karol\\programacion_3\\concesionariovehiculos\\concesionariovehiculos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE4EC82-88AF-413F-ABA4-0BFDCC74D475}|ConcesionarioVehiculos\\ConcesionarioVehiculos.csproj|solutionrelative:concesionariovehiculos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7CE4EC82-88AF-413F-ABA4-0BFDCC74D475}|ConcesionarioVehiculos\\ConcesionarioVehiculos.csproj|C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\ConcesionarioVehiculos\\concesionariovehiculos\\modelo\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7CE4EC82-88AF-413F-ABA4-0BFDCC74D475}|ConcesionarioVehiculos\\ConcesionarioVehiculos.csproj|solutionrelative:concesionariovehiculos\\modelo\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7CE4EC82-88AF-413F-ABA4-0BFDCC74D475}|ConcesionarioVehiculos\\ConcesionarioVehiculos.csproj|C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\ConcesionarioVehiculos\\concesionariovehiculos\\enums\\tipocosbustible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CE4EC82-88AF-413F-ABA4-0BFDCC74D475}|ConcesionarioVehiculos\\ConcesionarioVehiculos.csproj|solutionrelative:concesionariovehiculos\\enums\\tipocosbustible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7CE4EC82-88AF-413F-ABA4-0BFDCC74D475}|ConcesionarioVehiculos\\ConcesionarioVehiculos.csproj|C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\ConcesionarioVehiculos\\concesionariovehiculos\\modelo\\motocicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE4EC82-88AF-413F-ABA4-0BFDCC74D475}|ConcesionarioVehiculos\\ConcesionarioVehiculos.csproj|solutionrelative:concesionariovehiculos\\modelo\\motocicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE4EC82-88AF-413F-ABA4-0BFDCC74D475}|ConcesionarioVehiculos\\ConcesionarioVehiculos.csproj|C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\ConcesionarioVehiculos\\concesionariovehiculos\\modelo\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE4EC82-88AF-413F-ABA4-0BFDCC74D475}|ConcesionarioVehiculos\\ConcesionarioVehiculos.csproj|solutionrelative:concesionariovehiculos\\modelo\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,82 +42,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Vehiculo.cs",
-              "DocumentMoniker": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\ConcesionarioVehiculos\\ConcesionarioVehiculos\\Modelo\\Vehiculo.cs",
-              "RelativeDocumentMoniker": "ConcesionarioVehiculos\\Modelo\\Vehiculo.cs",
-              "ToolTip": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\ConcesionarioVehiculos\\ConcesionarioVehiculos\\Modelo\\Vehiculo.cs",
-              "RelativeToolTip": "ConcesionarioVehiculos\\Modelo\\Vehiculo.cs",
-              "ViewState": "AgIAABUAAACgzMzMzMwrwB4AAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T22:58:43.677Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Camion.cs",
-              "DocumentMoniker": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\ConcesionarioVehiculos\\ConcesionarioVehiculos\\Modelo\\Camion.cs",
-              "RelativeDocumentMoniker": "ConcesionarioVehiculos\\Modelo\\Camion.cs",
-              "ToolTip": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\ConcesionarioVehiculos\\ConcesionarioVehiculos\\Modelo\\Camion.cs",
-              "RelativeToolTip": "ConcesionarioVehiculos\\Modelo\\Camion.cs",
-              "ViewState": "AgIAABAAAADgmpmZmZkswDcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T22:58:28.617Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Motocicleta.cs",
-              "DocumentMoniker": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\ConcesionarioVehiculos\\ConcesionarioVehiculos\\Modelo\\Motocicleta.cs",
-              "RelativeDocumentMoniker": "ConcesionarioVehiculos\\Modelo\\Motocicleta.cs",
-              "ToolTip": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\ConcesionarioVehiculos\\ConcesionarioVehiculos\\Modelo\\Motocicleta.cs",
-              "RelativeToolTip": "ConcesionarioVehiculos\\Modelo\\Motocicleta.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T22:58:19.3Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Auto.cs",
               "DocumentMoniker": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\ConcesionarioVehiculos\\ConcesionarioVehiculos\\Modelo\\Auto.cs",
               "RelativeDocumentMoniker": "ConcesionarioVehiculos\\Modelo\\Auto.cs",
               "ToolTip": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\ConcesionarioVehiculos\\ConcesionarioVehiculos\\Modelo\\Auto.cs",
               "RelativeToolTip": "ConcesionarioVehiculos\\Modelo\\Auto.cs",
-              "ViewState": "AgIAAB8AAACAzMzMzMwkwCkAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAADAmpmZmZkrwBQAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T22:58:05.585Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IVendible.cs",
-              "DocumentMoniker": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\ConcesionarioVehiculos\\ConcesionarioVehiculos\\Interfaces\\IVendible.cs",
-              "RelativeDocumentMoniker": "ConcesionarioVehiculos\\Interfaces\\IVendible.cs",
-              "ToolTip": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\ConcesionarioVehiculos\\ConcesionarioVehiculos\\Interfaces\\IVendible.cs",
-              "RelativeToolTip": "ConcesionarioVehiculos\\Interfaces\\IVendible.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T22:56:56.651Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EstadoVehiculo.cs",
-              "DocumentMoniker": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\ConcesionarioVehiculos\\ConcesionarioVehiculos\\Enums\\EstadoVehiculo.cs",
-              "RelativeDocumentMoniker": "ConcesionarioVehiculos\\Enums\\EstadoVehiculo.cs",
-              "ToolTip": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\ConcesionarioVehiculos\\ConcesionarioVehiculos\\Enums\\EstadoVehiculo.cs",
-              "RelativeToolTip": "ConcesionarioVehiculos\\Enums\\EstadoVehiculo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T22:52:46.182Z",
+              "WhenOpened": "2026-03-05T22:58:05.585Z",
               "EditorCaption": ""
             },
             {
@@ -128,22 +65,88 @@
               "RelativeDocumentMoniker": "ConcesionarioVehiculos\\Program.cs",
               "ToolTip": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\ConcesionarioVehiculos\\ConcesionarioVehiculos\\Program.cs",
               "RelativeToolTip": "ConcesionarioVehiculos\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAIkAAAAAZWZmZmYnwNEAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-05T22:51:04.638Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "TipoCosbustible.cs",
-              "DocumentMoniker": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\ConcesionarioVehiculos\\ConcesionarioVehiculos\\Enums\\TipoCosbustible.cs",
-              "RelativeDocumentMoniker": "ConcesionarioVehiculos\\Enums\\TipoCosbustible.cs",
-              "ToolTip": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\ConcesionarioVehiculos\\ConcesionarioVehiculos\\Enums\\TipoCosbustible.cs",
-              "RelativeToolTip": "ConcesionarioVehiculos\\Enums\\TipoCosbustible.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "TipoCombustible.cs",
+              "DocumentMoniker": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\ConcesionarioVehiculos\\ConcesionarioVehiculos\\Enums\\TipoCombustible.cs",
+              "RelativeDocumentMoniker": "ConcesionarioVehiculos\\Enums\\TipoCombustible.cs",
+              "ToolTip": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\ConcesionarioVehiculos\\ConcesionarioVehiculos\\Enums\\TipoCombustible.cs",
+              "RelativeToolTip": "ConcesionarioVehiculos\\Enums\\TipoCombustible.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T22:52:29.407Z"
+              "WhenOpened": "2026-03-05T22:52:29.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Camion.cs",
+              "DocumentMoniker": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\ConcesionarioVehiculos\\ConcesionarioVehiculos\\Modelo\\Camion.cs",
+              "RelativeDocumentMoniker": "ConcesionarioVehiculos\\Modelo\\Camion.cs",
+              "ToolTip": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\ConcesionarioVehiculos\\ConcesionarioVehiculos\\Modelo\\Camion.cs",
+              "RelativeToolTip": "ConcesionarioVehiculos\\Modelo\\Camion.cs",
+              "ViewState": "AgIAACQAAACAzMzMzMwowBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T22:58:28.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IVendible.cs",
+              "DocumentMoniker": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\ConcesionarioVehiculos\\ConcesionarioVehiculos\\Interfaces\\IVendible.cs",
+              "RelativeDocumentMoniker": "ConcesionarioVehiculos\\Interfaces\\IVendible.cs",
+              "ToolTip": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\ConcesionarioVehiculos\\ConcesionarioVehiculos\\Interfaces\\IVendible.cs",
+              "RelativeToolTip": "ConcesionarioVehiculos\\Interfaces\\IVendible.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T22:56:56.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EstadoVehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\ConcesionarioVehiculos\\ConcesionarioVehiculos\\Enums\\EstadoVehiculo.cs",
+              "RelativeDocumentMoniker": "ConcesionarioVehiculos\\Enums\\EstadoVehiculo.cs",
+              "ToolTip": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\ConcesionarioVehiculos\\ConcesionarioVehiculos\\Enums\\EstadoVehiculo.cs",
+              "RelativeToolTip": "ConcesionarioVehiculos\\Enums\\EstadoVehiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T22:52:46.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Motocicleta.cs",
+              "DocumentMoniker": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\ConcesionarioVehiculos\\ConcesionarioVehiculos\\Modelo\\Motocicleta.cs",
+              "RelativeDocumentMoniker": "ConcesionarioVehiculos\\Modelo\\Motocicleta.cs",
+              "ToolTip": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\ConcesionarioVehiculos\\ConcesionarioVehiculos\\Modelo\\Motocicleta.cs",
+              "RelativeToolTip": "ConcesionarioVehiculos\\Modelo\\Motocicleta.cs",
+              "ViewState": "AgIAABUAAAAAaGZmZmb+vxsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T22:58:19.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Vehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\ConcesionarioVehiculos\\ConcesionarioVehiculos\\Modelo\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "ConcesionarioVehiculos\\Modelo\\Vehiculo.cs",
+              "ToolTip": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\ConcesionarioVehiculos\\ConcesionarioVehiculos\\Modelo\\Vehiculo.cs",
+              "RelativeToolTip": "ConcesionarioVehiculos\\Modelo\\Vehiculo.cs",
+              "ViewState": "AgIAAAkAAABgmZmZmZkuwBEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T22:58:43.677Z",
+              "EditorCaption": ""
             }
           ]
         }

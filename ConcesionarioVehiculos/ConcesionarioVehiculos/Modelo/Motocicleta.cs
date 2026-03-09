@@ -1,4 +1,6 @@
-﻿using System;
+﻿
+using ConcesionarioVehiculos.Enums;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -13,9 +15,9 @@ namespace ConcesionarioVehiculos.Modelo
 
 
         public Motocicleta(int id, string marca, string modelo, int año, decimal precioBase,
-                           string combustible, string estado,
-                           int cilindraje, bool esDeportiva)
-            : base(id, marca, modelo, año, precioBase, combustible, estado)
+                            TipoCombustible combustible, EstadoVehiculo estado,
+                            int cilindraje, bool esDeportiva)
+             : base(id, marca, modelo, año, precioBase, combustible, estado)
         {
             Cilindraje = cilindraje;
             EsDeportiva = esDeportiva;

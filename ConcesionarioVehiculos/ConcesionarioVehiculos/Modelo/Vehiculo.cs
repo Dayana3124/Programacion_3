@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ConcesionarioVehiculos.Enums;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -9,23 +10,31 @@ namespace ConcesionarioVehiculos.Modelo
     public abstract class Vehiculo
     {
         public int Id { get; set; }
-        public string Marca { get; set; }   
-        public string Modelo    { get; set; }
-        public int Año  { get; set; } 
-        public decimal PrecioBase  { get; set; }
-        public string Combustible { get; set; } 
-        public string Estado { get; set; }  
+        public string Marca { get; set; }
+        public string Modelo { get; set; }
+        public int Año { get; set; }
+        public decimal PrecioBase { get; set; }
 
-        protected Vehiculo(int Id, string Marca, string modelo, int Año, decimal PrecioBase, string Combustible, string Estado)
-        { 
-            this.Id = Id;
-            this.Marca = Marca;
-            this.Modelo = modelo;
-            this.Año = Año;
-            this.PrecioBase = PrecioBase;
-            this.Combustible = Combustible;
-            this.Estado = Estado;   
+       
+        public TipoCombustible Combustible { get; set; }
+        public EstadoVehiculo Estado { get; set; }
+
+        protected Vehiculo(int id, string marca, string modelo, int año,
+                           decimal precioBase,
+                           TipoCombustible combustible,
+                           EstadoVehiculo estado)
+        {
+            Id = id;
+            Marca = marca;
+            Modelo = modelo;
+            Año = año;
+            PrecioBase = precioBase;
+            Combustible = combustible;
+            Estado = estado;
         }
+
+       
+    
 
 
         public virtual void MostrarInformacion()

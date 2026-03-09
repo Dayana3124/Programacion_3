@@ -1,9 +1,10 @@
-﻿using System;
+﻿using ConcesionarioVehiculos.Enums;
+using ConcesionarioVehiculos.Interfaces;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using ConcesionarioVehiculos.Interfaces;
 
 namespace ConcesionarioVehiculos.Modelo
 {
@@ -13,9 +14,9 @@ namespace ConcesionarioVehiculos.Modelo
         public bool TieneAireAcondicionado { get; set; }
 
         public Auto(int id, string marca, string modelo, int año, decimal precioBase,
-                     string combustible, string estado,
-                     int numeroPuertas, bool tieneAireAcondicionado)
-             : base(id, marca, modelo, año, precioBase, combustible, estado)
+                    TipoCombustible combustible, EstadoVehiculo estado,
+                    int numeroPuertas, bool tieneAireAcondicionado)
+            : base(id, marca, modelo, año, precioBase, combustible, estado)
         {
             NumeroPuertas = numeroPuertas;
             TieneAireAcondicionado = tieneAireAcondicionado;
@@ -23,6 +24,9 @@ namespace ConcesionarioVehiculos.Modelo
 
         public override void MostrarInformacion()
         {
+            Console.WriteLine("- - - - - - - -- - - - - - - - - - - - - -");
+            Console.WriteLine("            INFORMACION AUTO            ");
+            Console.WriteLine("- - - - - - - -- - - - - - - - - - - - - -");
             base.MostrarInformacion();
             Console.WriteLine($"Número de puertas: {NumeroPuertas}");
             Console.WriteLine($"Aire acondicionado: {(TieneAireAcondicionado ? "Sí" : "No")}");

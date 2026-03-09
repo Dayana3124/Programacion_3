@@ -44,7 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Enums\EstadoVehiculo.cs" />
-    <Compile Include="Enums\TipoCosbustible.cs" />
+    <Compile Include="Enums\TipoCombustible.cs" />
     <Compile Include="Interfaces\IVendible.cs" />
     <Compile Include="Modelo\Auto.cs" />
     <Compile Include="Modelo\Camion.cs" />

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConcesionarioVehiculos.Enums
 {
-    public enum TipoCosbustible
+    public enum TipoCombustible
     {
         Gasolina,
         Diesel,

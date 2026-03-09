@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ConcesionarioVehiculos.Enums;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -9,16 +10,16 @@ namespace ConcesionarioVehiculos.Modelo
     public class Camion : Vehiculo, Interfaces.IVendible    
     {
         public decimal CapacidadCarga { get; set; }
-        public int NumeroEjes { get; set; } 
+        public int NumeroEjes { get; set; }
 
         public Camion(int id, string marca, string modelo, int año, decimal precioBase,
-                      string combustible, string estado,
+                      TipoCombustible combustible, EstadoVehiculo estado,
                       decimal capacidadCarga, int numeroEjes)
-              : base(id, marca, modelo, año, precioBase, combustible, estado)
+            : base(id, marca, modelo, año, precioBase, combustible, estado)
         {
             CapacidadCarga = capacidadCarga;
             NumeroEjes = numeroEjes;
-        }   
+        }
 
         public override void MostrarInformacion()
         {
