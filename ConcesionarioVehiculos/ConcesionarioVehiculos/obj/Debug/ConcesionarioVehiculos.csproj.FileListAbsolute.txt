@@ -1,7 +1,0 @@
-C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\ConcesionarioVehiculos\ConcesionarioVehiculos\bin\Debug\ConcesionarioVehiculos.exe.config
-C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\ConcesionarioVehiculos\ConcesionarioVehiculos\bin\Debug\ConcesionarioVehiculos.exe
-C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\ConcesionarioVehiculos\ConcesionarioVehiculos\bin\Debug\ConcesionarioVehiculos.pdb
-C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\ConcesionarioVehiculos\ConcesionarioVehiculos\obj\Debug\ConcesionarioVehiculos.csproj.AssemblyReference.cache
-C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\ConcesionarioVehiculos\ConcesionarioVehiculos\obj\Debug\ConcesionarioVehiculos.csproj.CoreCompileInputs.cache
-C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\ConcesionarioVehiculos\ConcesionarioVehiculos\obj\Debug\ConcesionarioVehiculos.exe
-C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\ConcesionarioVehiculos\ConcesionarioVehiculos\obj\Debug\ConcesionarioVehiculos.pdb
