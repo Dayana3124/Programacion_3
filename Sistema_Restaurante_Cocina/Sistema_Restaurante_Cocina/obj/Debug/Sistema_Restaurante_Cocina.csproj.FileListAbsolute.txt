@@ -1,0 +1,7 @@
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Sistema_Restaurante_Cocina\Sistema_Restaurante_Cocina\obj\Debug\Sistema_Restaurante_Cocina.csproj.AssemblyReference.cache
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Sistema_Restaurante_Cocina\Sistema_Restaurante_Cocina\obj\Debug\Sistema_Restaurante_Cocina.csproj.CoreCompileInputs.cache
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Sistema_Restaurante_Cocina\Sistema_Restaurante_Cocina\bin\Debug\Sistema_Restaurante_Cocina.exe.config
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Sistema_Restaurante_Cocina\Sistema_Restaurante_Cocina\bin\Debug\Sistema_Restaurante_Cocina.exe
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Sistema_Restaurante_Cocina\Sistema_Restaurante_Cocina\bin\Debug\Sistema_Restaurante_Cocina.pdb
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Sistema_Restaurante_Cocina\Sistema_Restaurante_Cocina\obj\Debug\Sistema_Restaurante_Cocina.exe
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Sistema_Restaurante_Cocina\Sistema_Restaurante_Cocina\obj\Debug\Sistema_Restaurante_Cocina.pdb
