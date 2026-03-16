@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Archivos_Bitacora_Personal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6295E4D-6A65-46C8-ABAD-5451EC46C4FB}|Archivos_Bitacora_Personal\\Archivos_Bitacora_Personal.csproj|c:\\users\\daka3\\onedrive\\escritorio\\trabajos karol\\programacion_3\\archivos_bitacora_personal\\archivos_bitacora_personal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6295E4D-6A65-46C8-ABAD-5451EC46C4FB}|Archivos_Bitacora_Personal\\Archivos_Bitacora_Personal.csproj|solutionrelative:archivos_bitacora_personal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Archivos_Bitacora_Personal\\Archivos_Bitacora_Personal\\Program.cs",
+              "RelativeDocumentMoniker": "Archivos_Bitacora_Personal\\Program.cs",
+              "ToolTip": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Archivos_Bitacora_Personal\\Archivos_Bitacora_Personal\\Program.cs*",
+              "RelativeToolTip": "Archivos_Bitacora_Personal\\Program.cs*",
+              "ViewState": "AgIAAGoAAADA//////8pwHkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T13:40:58.376Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
