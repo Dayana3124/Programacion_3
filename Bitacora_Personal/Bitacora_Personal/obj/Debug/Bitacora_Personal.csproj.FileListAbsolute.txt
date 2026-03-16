@@ -1,7 +1,0 @@
-C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Bitacora_Personal\Bitacora_Personal\obj\Debug\Bitacora_Personal.csproj.AssemblyReference.cache
-C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Bitacora_Personal\Bitacora_Personal\obj\Debug\Bitacora_Personal.csproj.CoreCompileInputs.cache
-C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Bitacora_Personal\Bitacora_Personal\bin\Debug\Bitacora_Personal.exe.config
-C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Bitacora_Personal\Bitacora_Personal\bin\Debug\Bitacora_Personal.exe
-C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Bitacora_Personal\Bitacora_Personal\bin\Debug\Bitacora_Personal.pdb
-C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Bitacora_Personal\Bitacora_Personal\obj\Debug\Bitacora_Personal.exe
-C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Bitacora_Personal\Bitacora_Personal\obj\Debug\Bitacora_Personal.pdb
