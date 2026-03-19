@@ -1,0 +1,7 @@
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\CreadorEstructuraProyectos\CreadorEstructuraProyectos\bin\Debug\CreadorEstructuraProyectos.exe.config
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\CreadorEstructuraProyectos\CreadorEstructuraProyectos\bin\Debug\CreadorEstructuraProyectos.exe
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\CreadorEstructuraProyectos\CreadorEstructuraProyectos\bin\Debug\CreadorEstructuraProyectos.pdb
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\CreadorEstructuraProyectos\CreadorEstructuraProyectos\obj\Debug\CreadorEstructuraProyectos.csproj.AssemblyReference.cache
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\CreadorEstructuraProyectos\CreadorEstructuraProyectos\obj\Debug\CreadorEstructuraProyectos.csproj.CoreCompileInputs.cache
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\CreadorEstructuraProyectos\CreadorEstructuraProyectos\obj\Debug\CreadorEstructuraProyectos.exe
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\CreadorEstructuraProyectos\CreadorEstructuraProyectos\obj\Debug\CreadorEstructuraProyectos.pdb

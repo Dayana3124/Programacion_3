@@ -1,0 +1,1 @@
+Calculamos los valores de una funcion, con el metodo la regla falsa

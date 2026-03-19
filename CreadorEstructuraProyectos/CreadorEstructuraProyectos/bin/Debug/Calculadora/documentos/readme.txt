@@ -1,0 +1,1 @@
+Hacemos una calculadora digital con codigo, en algun programa predeterminado
