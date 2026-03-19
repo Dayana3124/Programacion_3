@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // La información general de un ensamblado se controla mediante el siguiente 
 // conjunto de atributos. Cambie estos valores de atributo para modificar la información
 // asociada a un ensamblado.
-[assembly: AssemblyTitle("GestionParqueo")]
+[assembly: AssemblyTitle("Gestion_Parqueo")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("HP")]
-[assembly: AssemblyProduct("GestionParqueo")]
+[assembly: AssemblyProduct("Gestion_Parqueo")]
 [assembly: AssemblyCopyright("Copyright © HP 2026")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // El siguiente GUID sirve como id. de typelib si este proyecto se expone a COM.
-[assembly: Guid("f7c430f3-e2f9-4eb9-952e-5954a68d7502")]
+[assembly: Guid("579b4454-700f-473e-a01a-29fc46e882b1")]
 
 // La información de versión de un ensamblado consta de los cuatro valores siguientes:
 //

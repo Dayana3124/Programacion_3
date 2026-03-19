@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace GestionParqueo
+namespace Gestion_Parqueo
 {
     internal class Program
     {
@@ -12,6 +12,7 @@ namespace GestionParqueo
         static int contador = 0;
         static void Main(string[] args)
         {
+
 
             int opcion;
 
@@ -46,7 +47,7 @@ namespace GestionParqueo
             } while (opcion != 0);
         }
 
-        
+
         static void Menu()
         {
             Console.WriteLine("- - - - - - - - - - - - - - - - - - - - - - - - -  ");
@@ -73,7 +74,7 @@ namespace GestionParqueo
             Console.Write("Marca: ");
             string marca = Console.ReadLine();
 
-            
+
             int tipo;
             Console.Write("Tipo (1: Carro, 2: Moto): ");
             while (!int.TryParse(Console.ReadLine(), out tipo) || (tipo != 1 && tipo != 2))
@@ -156,54 +157,54 @@ namespace GestionParqueo
 }
 
 
-        public abstract class Vehiculo
-        {
-            public string Placa { get; set; }
-            public string Marca { get; set; }
+public abstract class Vehiculo
+{
+    public string Placa { get; set; }
+    public string Marca { get; set; }
 
-            public Vehiculo(string placa, string marca)
-            {
-                Placa = placa;
-                Marca = marca;
-            }
-        }
+    public Vehiculo(string placa, string marca)
+    {
+        Placa = placa;
+        Marca = marca;
+    }
+}
 
-        public interface ICobrable
-        {
-            int CalcularTarifa(int minutos);
-        }
+public interface ICobrable
+{
+    int CalcularTarifa(int minutos);
+}
 
-        
-        public class Carro : Vehiculo, ICobrable
-        {
-            public int NroPuertas { get; set; }
 
-            public Carro(string placa, string marca, int nroPuertas)
-                : base(placa, marca)
-            {
-                NroPuertas = nroPuertas;
-            }
+public class Carro : Vehiculo, ICobrable
+{
+    public int NroPuertas { get; set; }
 
-            public int CalcularTarifa(int minutos)
-            {
-                return minutos * 100;
-            }
-        }
+    public Carro(string placa, string marca, int nroPuertas)
+        : base(placa, marca)
+    {
+        NroPuertas = nroPuertas;
+    }
 
-        public class Moto : Vehiculo, ICobrable
-        {
-            public int Cilindraje { get; set; }
+    public int CalcularTarifa(int minutos)
+    {
+        return minutos * 100;
+    }
+}
 
-            public Moto(string placa, string marca, int cilindraje)
-                : base(placa, marca)
-            {
-                Cilindraje = cilindraje;
-            }
+public class Moto : Vehiculo, ICobrable
+{
+    public int Cilindraje { get; set; }
 
-            public int CalcularTarifa(int minutos)
-            {
-                return minutos * 50;
-            }
-        }
- 
+    public Moto(string placa, string marca, int cilindraje)
+        : base(placa, marca)
+    {
+        Cilindraje = cilindraje;
+    }
+
+    public int CalcularTarifa(int minutos)
+    {
+        return minutos * 50;
+    }
+}
+            
 

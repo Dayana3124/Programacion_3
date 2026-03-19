@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F7C430F3-E2F9-4EB9-952E-5954A68D7502}</ProjectGuid>
+    <ProjectGuid>{579B4454-700F-473E-A01A-29FC46E882B1}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>GestionParqueo</RootNamespace>
-    <AssemblyName>GestionParqueo</AssemblyName>
+    <RootNamespace>Gestion_Parqueo</RootNamespace>
+    <AssemblyName>Gestion_Parqueo</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

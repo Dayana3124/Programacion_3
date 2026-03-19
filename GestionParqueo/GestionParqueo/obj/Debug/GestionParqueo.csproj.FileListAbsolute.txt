@@ -1,7 +1,0 @@
-C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\GestionParqueo\GestionParqueo\obj\Debug\GestionParqueo.csproj.AssemblyReference.cache
-C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\GestionParqueo\GestionParqueo\obj\Debug\GestionParqueo.csproj.CoreCompileInputs.cache
-C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\GestionParqueo\GestionParqueo\bin\Debug\GestionParqueo.exe.config
-C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\GestionParqueo\GestionParqueo\bin\Debug\GestionParqueo.exe
-C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\GestionParqueo\GestionParqueo\bin\Debug\GestionParqueo.pdb
-C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\GestionParqueo\GestionParqueo\obj\Debug\GestionParqueo.exe
-C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\GestionParqueo\GestionParqueo\obj\Debug\GestionParqueo.pdb
