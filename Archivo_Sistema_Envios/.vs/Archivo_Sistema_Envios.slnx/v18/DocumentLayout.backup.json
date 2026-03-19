@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Archivo_Sistema_Envios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65304E45-8A22-4136-A983-0CB597CCB24B}|Archivo_Sistema_Envios\\Archivo_Sistema_Envios.csproj|c:\\users\\daka3\\onedrive\\escritorio\\trabajos karol\\programacion_3\\archivo_sistema_envios\\archivo_sistema_envios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65304E45-8A22-4136-A983-0CB597CCB24B}|Archivo_Sistema_Envios\\Archivo_Sistema_Envios.csproj|solutionrelative:archivo_sistema_envios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Archivo_Sistema_Envios\\Archivo_Sistema_Envios\\Program.cs",
+              "RelativeDocumentMoniker": "Archivo_Sistema_Envios\\Program.cs",
+              "ToolTip": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Archivo_Sistema_Envios\\Archivo_Sistema_Envios\\Program.cs",
+              "RelativeToolTip": "Archivo_Sistema_Envios\\Program.cs",
+              "ViewState": "AgIAAIQAAAAAJjMzMzP7v5cAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T13:54:46.501Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
