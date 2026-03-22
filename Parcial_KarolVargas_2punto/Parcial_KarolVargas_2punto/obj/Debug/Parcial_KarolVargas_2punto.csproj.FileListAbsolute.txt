@@ -1,0 +1,7 @@
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Parcial_KarolVargas_2punto\Parcial_KarolVargas_2punto\bin\Debug\Parcial_KarolVargas_2punto.exe.config
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Parcial_KarolVargas_2punto\Parcial_KarolVargas_2punto\bin\Debug\Parcial_KarolVargas_2punto.exe
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Parcial_KarolVargas_2punto\Parcial_KarolVargas_2punto\bin\Debug\Parcial_KarolVargas_2punto.pdb
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Parcial_KarolVargas_2punto\Parcial_KarolVargas_2punto\obj\Debug\Parcial_KarolVargas_2punto.csproj.AssemblyReference.cache
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Parcial_KarolVargas_2punto\Parcial_KarolVargas_2punto\obj\Debug\Parcial_KarolVargas_2punto.csproj.CoreCompileInputs.cache
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Parcial_KarolVargas_2punto\Parcial_KarolVargas_2punto\obj\Debug\Parcial_KarolVargas_2punto.exe
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Parcial_KarolVargas_2punto\Parcial_KarolVargas_2punto\obj\Debug\Parcial_KarolVargas_2punto.pdb
