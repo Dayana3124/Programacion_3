@@ -1,7 +1,0 @@
-C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Metodod_Regla_Falsa\Metodod_Regla_Falsa\bin\Debug\Metodod_Regla_Falsa.exe.config
-C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Metodod_Regla_Falsa\Metodod_Regla_Falsa\bin\Debug\Metodod_Regla_Falsa.exe
-C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Metodod_Regla_Falsa\Metodod_Regla_Falsa\bin\Debug\Metodod_Regla_Falsa.pdb
-C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Metodod_Regla_Falsa\Metodod_Regla_Falsa\obj\Debug\Metodod_Regla_Falsa.csproj.AssemblyReference.cache
-C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Metodod_Regla_Falsa\Metodod_Regla_Falsa\obj\Debug\Metodod_Regla_Falsa.csproj.CoreCompileInputs.cache
-C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Metodod_Regla_Falsa\Metodod_Regla_Falsa\obj\Debug\Metodod_Regla_Falsa.exe
-C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Metodod_Regla_Falsa\Metodod_Regla_Falsa\obj\Debug\Metodod_Regla_Falsa.pdb
