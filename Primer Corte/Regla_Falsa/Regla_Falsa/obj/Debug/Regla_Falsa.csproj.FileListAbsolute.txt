@@ -1,0 +1,9 @@
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Regla_Falsa\Regla_Falsa\bin\Debug\Regla_Falsa.exe.config
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Regla_Falsa\Regla_Falsa\bin\Debug\Regla_Falsa.exe
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Regla_Falsa\Regla_Falsa\bin\Debug\Regla_Falsa.pdb
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Regla_Falsa\Regla_Falsa\bin\Debug\NCalc.dll
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Regla_Falsa\Regla_Falsa\obj\Debug\Regla_Falsa.csproj.AssemblyReference.cache
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Regla_Falsa\Regla_Falsa\obj\Debug\Regla_Falsa.csproj.CoreCompileInputs.cache
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Regla_Falsa\Regla_Falsa\obj\Debug\Regla_Fa.A76DA077.Up2Date
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Regla_Falsa\Regla_Falsa\obj\Debug\Regla_Falsa.exe
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Regla_Falsa\Regla_Falsa\obj\Debug\Regla_Falsa.pdb
