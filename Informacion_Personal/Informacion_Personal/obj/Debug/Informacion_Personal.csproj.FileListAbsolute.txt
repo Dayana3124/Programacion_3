@@ -1,0 +1,10 @@
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Informacion_Personal\Informacion_Personal\bin\Debug\Informacion_Personal.exe.config
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Informacion_Personal\Informacion_Personal\bin\Debug\Informacion_Personal.exe
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Informacion_Personal\Informacion_Personal\bin\Debug\Informacion_Personal.pdb
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Informacion_Personal\Informacion_Personal\obj\Debug\Informacion_Personal.csproj.AssemblyReference.cache
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Informacion_Personal\Informacion_Personal\obj\Debug\Informacion_Personal.Form1.resources
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Informacion_Personal\Informacion_Personal\obj\Debug\Informacion_Personal.Properties.Resources.resources
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Informacion_Personal\Informacion_Personal\obj\Debug\Informacion_Personal.csproj.GenerateResource.cache
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Informacion_Personal\Informacion_Personal\obj\Debug\Informacion_Personal.csproj.CoreCompileInputs.cache
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Informacion_Personal\Informacion_Personal\obj\Debug\Informacion_Personal.exe
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Informacion_Personal\Informacion_Personal\obj\Debug\Informacion_Personal.pdb
