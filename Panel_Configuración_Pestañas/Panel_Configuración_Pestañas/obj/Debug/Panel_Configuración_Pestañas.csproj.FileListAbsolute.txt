@@ -1,0 +1,10 @@
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Panel_Configuración_Pestañas\Panel_Configuración_Pestañas\bin\Debug\Panel_Configuración_Pestañas.exe.config
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Panel_Configuración_Pestañas\Panel_Configuración_Pestañas\bin\Debug\Panel_Configuración_Pestañas.exe
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Panel_Configuración_Pestañas\Panel_Configuración_Pestañas\bin\Debug\Panel_Configuración_Pestañas.pdb
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Panel_Configuración_Pestañas\Panel_Configuración_Pestañas\obj\Debug\Panel_Configuración_Pestañas.csproj.AssemblyReference.cache
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Panel_Configuración_Pestañas\Panel_Configuración_Pestañas\obj\Debug\Panel_Configuración_Pestañas.Form1.resources
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Panel_Configuración_Pestañas\Panel_Configuración_Pestañas\obj\Debug\Panel_Configuración_Pestañas.Properties.Resources.resources
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Panel_Configuración_Pestañas\Panel_Configuración_Pestañas\obj\Debug\Panel_Configuración_Pestañas.csproj.GenerateResource.cache
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Panel_Configuración_Pestañas\Panel_Configuración_Pestañas\obj\Debug\Panel_Configuración_Pestañas.csproj.CoreCompileInputs.cache
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Panel_Configuración_Pestañas\Panel_Configuración_Pestañas\obj\Debug\Panel_Configuración_Pestañas.exe
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Panel_Configuración_Pestañas\Panel_Configuración_Pestañas\obj\Debug\Panel_Configuración_Pestañas.pdb
