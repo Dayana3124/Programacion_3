@@ -1,0 +1,10 @@
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Interfaz_Reproductor_Música\Interfaz_Reproductor_Música\bin\Debug\Interfaz_Reproductor_Música.exe.config
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Interfaz_Reproductor_Música\Interfaz_Reproductor_Música\bin\Debug\Interfaz_Reproductor_Música.exe
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Interfaz_Reproductor_Música\Interfaz_Reproductor_Música\bin\Debug\Interfaz_Reproductor_Música.pdb
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Interfaz_Reproductor_Música\Interfaz_Reproductor_Música\obj\Debug\Interfaz_Reproductor_Música.csproj.AssemblyReference.cache
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Interfaz_Reproductor_Música\Interfaz_Reproductor_Música\obj\Debug\Interfaz_Reproductor_Música.Form1.resources
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Interfaz_Reproductor_Música\Interfaz_Reproductor_Música\obj\Debug\Interfaz_Reproductor_Música.Properties.Resources.resources
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Interfaz_Reproductor_Música\Interfaz_Reproductor_Música\obj\Debug\Interfaz_Reproductor_Música.csproj.GenerateResource.cache
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Interfaz_Reproductor_Música\Interfaz_Reproductor_Música\obj\Debug\Interfaz_Reproductor_Música.csproj.CoreCompileInputs.cache
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Interfaz_Reproductor_Música\Interfaz_Reproductor_Música\obj\Debug\Interfaz_Reproductor_Música.exe
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Interfaz_Reproductor_Música\Interfaz_Reproductor_Música\obj\Debug\Interfaz_Reproductor_Música.pdb
