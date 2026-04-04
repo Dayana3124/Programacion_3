@@ -1,0 +1,10 @@
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Catalogo_Productos\Catalogo_Productos\bin\Debug\Catalogo_Productos.exe.config
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Catalogo_Productos\Catalogo_Productos\bin\Debug\Catalogo_Productos.exe
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Catalogo_Productos\Catalogo_Productos\bin\Debug\Catalogo_Productos.pdb
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Catalogo_Productos\Catalogo_Productos\obj\Debug\Catalogo_Productos.csproj.AssemblyReference.cache
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Catalogo_Productos\Catalogo_Productos\obj\Debug\Catalogo_Productos.Form1.resources
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Catalogo_Productos\Catalogo_Productos\obj\Debug\Catalogo_Productos.Properties.Resources.resources
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Catalogo_Productos\Catalogo_Productos\obj\Debug\Catalogo_Productos.csproj.GenerateResource.cache
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Catalogo_Productos\Catalogo_Productos\obj\Debug\Catalogo_Productos.csproj.CoreCompileInputs.cache
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Catalogo_Productos\Catalogo_Productos\obj\Debug\Catalogo_Productos.exe
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Catalogo_Productos\Catalogo_Productos\obj\Debug\Catalogo_Productos.pdb
