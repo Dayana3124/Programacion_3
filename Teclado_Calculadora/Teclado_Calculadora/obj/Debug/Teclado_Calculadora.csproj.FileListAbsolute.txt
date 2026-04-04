@@ -1,0 +1,10 @@
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Teclado_Calculadora\Teclado_Calculadora\bin\Debug\Teclado_Calculadora.exe.config
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Teclado_Calculadora\Teclado_Calculadora\bin\Debug\Teclado_Calculadora.exe
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Teclado_Calculadora\Teclado_Calculadora\bin\Debug\Teclado_Calculadora.pdb
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Teclado_Calculadora\Teclado_Calculadora\obj\Debug\Teclado_Calculadora.csproj.AssemblyReference.cache
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Teclado_Calculadora\Teclado_Calculadora\obj\Debug\Teclado_Calculadora.Form1.resources
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Teclado_Calculadora\Teclado_Calculadora\obj\Debug\Teclado_Calculadora.Properties.Resources.resources
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Teclado_Calculadora\Teclado_Calculadora\obj\Debug\Teclado_Calculadora.csproj.GenerateResource.cache
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Teclado_Calculadora\Teclado_Calculadora\obj\Debug\Teclado_Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Teclado_Calculadora\Teclado_Calculadora\obj\Debug\Teclado_Calculadora.exe
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Teclado_Calculadora\Teclado_Calculadora\obj\Debug\Teclado_Calculadora.pdb

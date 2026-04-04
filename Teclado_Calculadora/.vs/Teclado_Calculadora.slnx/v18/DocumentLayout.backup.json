@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Teclado_Calculadora\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03A36141-F365-411A-88E5-C1FEFAE2A03C}|Teclado_Calculadora\\Teclado_Calculadora.csproj|c:\\users\\daka3\\onedrive\\escritorio\\trabajos karol\\programacion_3\\teclado_calculadora\\teclado_calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{03A36141-F365-411A-88E5-C1FEFAE2A03C}|Teclado_Calculadora\\Teclado_Calculadora.csproj|solutionrelative:teclado_calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03A36141-F365-411A-88E5-C1FEFAE2A03C}|Teclado_Calculadora\\Teclado_Calculadora.csproj|c:\\users\\daka3\\onedrive\\escritorio\\trabajos karol\\programacion_3\\teclado_calculadora\\teclado_calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03A36141-F365-411A-88E5-C1FEFAE2A03C}|Teclado_Calculadora\\Teclado_Calculadora.csproj|solutionrelative:teclado_calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Teclado_Calculadora\\Teclado_Calculadora\\Form1.cs",
+              "RelativeDocumentMoniker": "Teclado_Calculadora\\Form1.cs",
+              "ToolTip": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Teclado_Calculadora\\Teclado_Calculadora\\Form1.cs*",
+              "RelativeToolTip": "Teclado_Calculadora\\Form1.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T20:35:27.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Teclado_Calculadora\\Teclado_Calculadora\\Form1.cs",
+              "RelativeDocumentMoniker": "Teclado_Calculadora\\Form1.cs",
+              "ToolTip": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Teclado_Calculadora\\Teclado_Calculadora\\Form1.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "Teclado_Calculadora\\Form1.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T19:42:01.395Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
