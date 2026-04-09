@@ -1,0 +1,10 @@
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Sistema_Reserva_Hotel\Sistema_Reserva_Hotel\obj\Debug\Sistema_Reserva_Hotel.csproj.AssemblyReference.cache
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Sistema_Reserva_Hotel\Sistema_Reserva_Hotel\obj\Debug\Sistema_Reserva_Hotel.Form1.resources
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Sistema_Reserva_Hotel\Sistema_Reserva_Hotel\obj\Debug\Sistema_Reserva_Hotel.Properties.Resources.resources
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Sistema_Reserva_Hotel\Sistema_Reserva_Hotel\obj\Debug\Sistema_Reserva_Hotel.csproj.GenerateResource.cache
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Sistema_Reserva_Hotel\Sistema_Reserva_Hotel\obj\Debug\Sistema_Reserva_Hotel.csproj.CoreCompileInputs.cache
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Sistema_Reserva_Hotel\Sistema_Reserva_Hotel\bin\Debug\Sistema_Reserva_Hotel.exe.config
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Sistema_Reserva_Hotel\Sistema_Reserva_Hotel\bin\Debug\Sistema_Reserva_Hotel.exe
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Sistema_Reserva_Hotel\Sistema_Reserva_Hotel\bin\Debug\Sistema_Reserva_Hotel.pdb
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Sistema_Reserva_Hotel\Sistema_Reserva_Hotel\obj\Debug\Sistema_Reserva_Hotel.exe
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Sistema_Reserva_Hotel\Sistema_Reserva_Hotel\obj\Debug\Sistema_Reserva_Hotel.pdb
