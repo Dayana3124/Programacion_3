@@ -33,73 +33,83 @@ namespace Gestión_Inventario_Productos
 
         }
 
-        private async void btnGuardar_Click(object sender, EventArgs e)
+       
+
+        private void txtNombreProducto_Validating(object sender, CancelEventArgs e)
         {
-
-
-            if (txtCodigo.Text.Trim() == "" ||
-         txtNombreProducto.Text.Trim() == "" ||
-         cmbCategoria.SelectedIndex == -1)
+            if (txtNombreProducto.Text.Trim() == "")
             {
-                btnGuardar.BackColor = Color.Red;
-                btnGuardar.ForeColor = Color.White;
-
-                await Task.Delay(1000);
-
-                btnGuardar.BackColor = Color.Peru; 
-                btnGuardar.ForeColor = Color.Black;
-
-                MessageBox.Show("Todos los campos son obligatorios");
-                return;
+                errorProvider1.SetError(txtNombreProducto, "Campo obligatorio");
+                e.Cancel = true;
             }
+            else
+                errorProvider1.SetError(txtNombreProducto, "");
+        }
 
+        private void txtCodigo_Validating(object sender, CancelEventArgs e)
+        {
             string codigo = txtCodigo.Text.Trim();
 
             if (codigo.Length != 9 ||
                 codigo.Substring(0, 5).ToUpper() != "PROD-" ||
                 !int.TryParse(codigo.Substring(5, 4), out _))
             {
-                btnGuardar.BackColor = Color.Red;
-                btnGuardar.ForeColor = Color.White;
-
-                await Task.Delay(1000);
-
-                btnGuardar.BackColor = Color.Peru;
-                btnGuardar.ForeColor = Color.Black;
-
-                MessageBox.Show("El código debe tener el formato PROD-0000");
-                return;
+                errorProvider1.SetError(txtCodigo, "Formato: PROD-0000");
+                e.Cancel = true;
             }
+            else
+                errorProvider1.SetError(txtCodigo, "");
+        }
 
+        private void cmbCategoria_Validating(object sender, CancelEventArgs e)
+        {
+            if (cmbCategoria.SelectedIndex == -1)
+            {
+                errorProvider1.SetError(cmbCategoria, "Seleccione una categoría");
+                e.Cancel = true;
+            }
+            else
+                errorProvider1.SetError(cmbCategoria, "");
+        }
+
+        private void numStockInicial_Validating(object sender, CancelEventArgs e)
+        {
             if (numStockInicial.Value < numStockMinimo.Value)
             {
-                btnGuardar.BackColor = Color.Red;
-                btnGuardar.ForeColor = Color.White;
-
-                await Task.Delay(1000);
-
-                btnGuardar.BackColor = Color.Peru;
-                btnGuardar.ForeColor = Color.Black;
-
-                MessageBox.Show("El stock inicial no puede ser menor al stock mínimo");
-                return;
+                errorProvider1.SetError(numStockInicial, "Debe ser mayor o igual al mínimo");
+                e.Cancel = true;
             }
+            else
+                errorProvider1.SetError(numStockInicial, "");
+        }
 
+        private void groupBoxIVA_Validating(object sender, CancelEventArgs e)
+        {
             if (!rbExento.Checked && !rbGeneral.Checked && !rbReducido.Checked)
             {
-                btnGuardar.BackColor = Color.Red;
-                btnGuardar.ForeColor = Color.White;
-
-                await Task.Delay(1000);
-
-                btnGuardar.BackColor = Color.Peru;
-                btnGuardar.ForeColor = Color.Black;
-
-                MessageBox.Show("Debe seleccionar un tipo de IVA");
-                return;
+                errorProvider1.SetError(groupBoxIVA, "Seleccione un IVA");
+                e.Cancel = true;
             }
+            else
+                errorProvider1.SetError(groupBoxIVA, "");
+        }
 
+        private void dtpFechaVencimiento_Validating(object sender, CancelEventArgs e)
+        {
             if (chkEsPerecedero.Checked && dtpFechaVencimiento.Value <= DateTime.Now)
+            {
+                errorProvider1.SetError(dtpFechaVencimiento, "Fecha inválida");
+                e.Cancel = true;
+            }
+            else
+                errorProvider1.SetError(dtpFechaVencimiento, "");
+        }
+
+        private async void btnGuardar_Click(object sender, EventArgs e)
+        {
+            errorProvider1.Clear();
+
+            if (!this.ValidateChildren())
             {
                 btnGuardar.BackColor = Color.Red;
                 btnGuardar.ForeColor = Color.White;
@@ -109,11 +119,9 @@ namespace Gestión_Inventario_Productos
                 btnGuardar.BackColor = Color.Peru;
                 btnGuardar.ForeColor = Color.Black;
 
-                MessageBox.Show("La fecha de vencimiento debe ser futura");
                 return;
             }
 
-           
             btnGuardar.BackColor = Color.Green;
             btnGuardar.ForeColor = Color.White;
 
@@ -123,7 +131,6 @@ namespace Gestión_Inventario_Productos
             btnGuardar.ForeColor = Color.Black;
 
             MessageBox.Show("Producto registrado correctamente");
-        
         }
 
         private async void btnLimpiar_Click(object sender, EventArgs e)
@@ -133,11 +140,9 @@ namespace Gestión_Inventario_Productos
 
             await Task.Delay(1000);
 
-            
             btnLimpiar.BackColor = Color.PaleGoldenrod;
             btnLimpiar.ForeColor = Color.Black;
 
-            
             txtCodigo.Clear();
             txtNombreProducto.Clear();
 
@@ -153,10 +158,13 @@ namespace Gestión_Inventario_Productos
             chkEsPerecedero.Checked = false;
             dtpFechaVencimiento.Enabled = false;
 
+            errorProvider1.Clear();
+
             MessageBox.Show("Formulario limpio");
         }
+
     }
-    
-    
-    
+
+
+
 }

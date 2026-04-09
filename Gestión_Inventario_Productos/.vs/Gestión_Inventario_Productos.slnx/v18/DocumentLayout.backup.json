@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Gesti\u00F3n_Inventario_Productos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F4413FEB-DA62-4084-8D90-3DF7DEB236D5}|Gesti\u00F3n_Inventario_Productos\\Gesti\u00F3n_Inventario_Productos.csproj|c:\\users\\daka3\\onedrive\\escritorio\\trabajos karol\\programacion_3\\gesti\u00F3n_inventario_productos\\gesti\u00F3n_inventario_productos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F4413FEB-DA62-4084-8D90-3DF7DEB236D5}|Gesti\u00F3n_Inventario_Productos\\Gesti\u00F3n_Inventario_Productos.csproj|solutionrelative:gesti\u00F3n_inventario_productos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F4413FEB-DA62-4084-8D90-3DF7DEB236D5}|Gesti\u00F3n_Inventario_Productos\\Gesti\u00F3n_Inventario_Productos.csproj|c:\\users\\daka3\\onedrive\\escritorio\\trabajos karol\\programacion_3\\gesti\u00F3n_inventario_productos\\gesti\u00F3n_inventario_productos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4413FEB-DA62-4084-8D90-3DF7DEB236D5}|Gesti\u00F3n_Inventario_Productos\\Gesti\u00F3n_Inventario_Productos.csproj|solutionrelative:gesti\u00F3n_inventario_productos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4413FEB-DA62-4084-8D90-3DF7DEB236D5}|Gesti\u00F3n_Inventario_Productos\\Gesti\u00F3n_Inventario_Productos.csproj|c:\\users\\daka3\\onedrive\\escritorio\\trabajos karol\\programacion_3\\gesti\u00F3n_inventario_productos\\gesti\u00F3n_inventario_productos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F4413FEB-DA62-4084-8D90-3DF7DEB236D5}|Gesti\u00F3n_Inventario_Productos\\Gesti\u00F3n_Inventario_Productos.csproj|solutionrelative:gesti\u00F3n_inventario_productos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,31 +18,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Gesti\u00F3n_Inventario_Productos\\Gesti\u00F3n_Inventario_Productos\\Form1.cs",
               "RelativeDocumentMoniker": "Gesti\u00F3n_Inventario_Productos\\Form1.cs",
-              "ToolTip": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Gesti\u00F3n_Inventario_Productos\\Gesti\u00F3n_Inventario_Productos\\Form1.cs",
-              "RelativeToolTip": "Gesti\u00F3n_Inventario_Productos\\Form1.cs",
-              "ViewState": "AgIAABMAAAAAyczMzMwawJ4AAAAEAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Gesti\u00F3n_Inventario_Productos\\Gesti\u00F3n_Inventario_Productos\\Form1.cs*",
+              "RelativeToolTip": "Gesti\u00F3n_Inventario_Productos\\Form1.cs*",
+              "ViewState": "AgIAAAYAAAAA/P////8KwA8AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T19:29:44.597Z",
+              "WhenOpened": "2026-04-09T22:40:05.828Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Gesti\u00F3n_Inventario_Productos\\Gesti\u00F3n_Inventario_Productos\\Form1.cs",
               "RelativeDocumentMoniker": "Gesti\u00F3n_Inventario_Productos\\Form1.cs",
-              "ToolTip": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Gesti\u00F3n_Inventario_Productos\\Gesti\u00F3n_Inventario_Productos\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Gesti\u00F3n_Inventario_Productos\\Form1.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Gesti\u00F3n_Inventario_Productos\\Gesti\u00F3n_Inventario_Productos\\Form1.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "Gesti\u00F3n_Inventario_Productos\\Form1.cs [Dise\u00F1o]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T19:29:25.602Z",
+              "WhenOpened": "2026-04-09T22:39:29.467Z",
               "EditorCaption": " [Dise\u00F1o]"
             }
           ]

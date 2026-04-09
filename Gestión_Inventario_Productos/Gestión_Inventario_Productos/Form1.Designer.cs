@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.label1 = new System.Windows.Forms.Label();
             this.txtCodigo = new System.Windows.Forms.TextBox();
             this.txtNombreProducto = new System.Windows.Forms.TextBox();
@@ -39,7 +40,7 @@
             this.label5 = new System.Windows.Forms.Label();
             this.numStockMinimo = new System.Windows.Forms.NumericUpDown();
             this.label6 = new System.Windows.Forms.Label();
-            this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.groupBoxIVA = new System.Windows.Forms.GroupBox();
             this.rbReducido = new System.Windows.Forms.RadioButton();
             this.rbGeneral = new System.Windows.Forms.RadioButton();
             this.rbExento = new System.Windows.Forms.RadioButton();
@@ -48,9 +49,11 @@
             this.label7 = new System.Windows.Forms.Label();
             this.btnLimpiar = new System.Windows.Forms.Button();
             this.btnGuardar = new System.Windows.Forms.Button();
+            this.errorProvider1 = new System.Windows.Forms.ErrorProvider(this.components);
             ((System.ComponentModel.ISupportInitialize)(this.numStockInicial)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.numStockMinimo)).BeginInit();
-            this.groupBox1.SuspendLayout();
+            this.groupBoxIVA.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.errorProvider1)).BeginInit();
             this.SuspendLayout();
             // 
             // label1
@@ -70,6 +73,7 @@
             this.txtCodigo.Name = "txtCodigo";
             this.txtCodigo.Size = new System.Drawing.Size(128, 20);
             this.txtCodigo.TabIndex = 1;
+            this.txtCodigo.Validating += new System.ComponentModel.CancelEventHandler(this.txtCodigo_Validating);
             // 
             // txtNombreProducto
             // 
@@ -77,6 +81,7 @@
             this.txtNombreProducto.Name = "txtNombreProducto";
             this.txtNombreProducto.Size = new System.Drawing.Size(260, 20);
             this.txtNombreProducto.TabIndex = 0;
+            this.txtNombreProducto.Validating += new System.ComponentModel.CancelEventHandler(this.txtNombreProducto_Validating);
             // 
             // label2
             // 
@@ -109,6 +114,7 @@
             this.cmbCategoria.Name = "cmbCategoria";
             this.cmbCategoria.Size = new System.Drawing.Size(128, 21);
             this.cmbCategoria.TabIndex = 5;
+            this.cmbCategoria.Validating += new System.ComponentModel.CancelEventHandler(this.cmbCategoria_Validating);
             // 
             // label4
             // 
@@ -126,6 +132,7 @@
             this.numStockInicial.Name = "numStockInicial";
             this.numStockInicial.Size = new System.Drawing.Size(120, 20);
             this.numStockInicial.TabIndex = 7;
+            this.numStockInicial.Validating += new System.ComponentModel.CancelEventHandler(this.numStockInicial_Validating);
             // 
             // label5
             // 
@@ -154,18 +161,19 @@
             this.label6.TabIndex = 10;
             this.label6.Text = "STOCK MINIMO:";
             // 
-            // groupBox1
+            // groupBoxIVA
             // 
-            this.groupBox1.Controls.Add(this.rbReducido);
-            this.groupBox1.Controls.Add(this.rbGeneral);
-            this.groupBox1.Controls.Add(this.rbExento);
-            this.groupBox1.Location = new System.Drawing.Point(18, 230);
-            this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(200, 100);
-            this.groupBox1.TabIndex = 11;
-            this.groupBox1.TabStop = false;
-            this.groupBox1.Text = "IVA";
-            this.groupBox1.Enter += new System.EventHandler(this.groupBox1_Enter);
+            this.groupBoxIVA.Controls.Add(this.rbReducido);
+            this.groupBoxIVA.Controls.Add(this.rbGeneral);
+            this.groupBoxIVA.Controls.Add(this.rbExento);
+            this.groupBoxIVA.Location = new System.Drawing.Point(18, 230);
+            this.groupBoxIVA.Name = "groupBoxIVA";
+            this.groupBoxIVA.Size = new System.Drawing.Size(200, 100);
+            this.groupBoxIVA.TabIndex = 11;
+            this.groupBoxIVA.TabStop = false;
+            this.groupBoxIVA.Text = "IVA";
+            this.groupBoxIVA.Enter += new System.EventHandler(this.groupBox1_Enter);
+            this.groupBoxIVA.Validating += new System.ComponentModel.CancelEventHandler(this.groupBoxIVA_Validating);
             // 
             // rbReducido
             // 
@@ -219,6 +227,7 @@
             this.dtpFechaVencimiento.Name = "dtpFechaVencimiento";
             this.dtpFechaVencimiento.Size = new System.Drawing.Size(200, 20);
             this.dtpFechaVencimiento.TabIndex = 13;
+            this.dtpFechaVencimiento.Validating += new System.ComponentModel.CancelEventHandler(this.dtpFechaVencimiento_Validating);
             // 
             // label7
             // 
@@ -254,17 +263,22 @@
             this.btnGuardar.UseVisualStyleBackColor = false;
             this.btnGuardar.Click += new System.EventHandler(this.btnGuardar_Click);
             // 
+            // errorProvider1
+            // 
+            this.errorProvider1.ContainerControl = this;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.SystemColors.Control;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.btnGuardar);
             this.Controls.Add(this.btnLimpiar);
             this.Controls.Add(this.label7);
             this.Controls.Add(this.dtpFechaVencimiento);
             this.Controls.Add(this.chkEsPerecedero);
-            this.Controls.Add(this.groupBox1);
+            this.Controls.Add(this.groupBoxIVA);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.numStockMinimo);
             this.Controls.Add(this.label5);
@@ -280,8 +294,9 @@
             this.Text = "Form1";
             ((System.ComponentModel.ISupportInitialize)(this.numStockInicial)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.numStockMinimo)).EndInit();
-            this.groupBox1.ResumeLayout(false);
-            this.groupBox1.PerformLayout();
+            this.groupBoxIVA.ResumeLayout(false);
+            this.groupBoxIVA.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.errorProvider1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -300,7 +315,7 @@
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.NumericUpDown numStockMinimo;
         private System.Windows.Forms.Label label6;
-        private System.Windows.Forms.GroupBox groupBox1;
+        private System.Windows.Forms.GroupBox groupBoxIVA;
         private System.Windows.Forms.RadioButton rbExento;
         private System.Windows.Forms.RadioButton rbReducido;
         private System.Windows.Forms.RadioButton rbGeneral;
@@ -309,6 +324,7 @@
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.Button btnLimpiar;
         private System.Windows.Forms.Button btnGuardar;
+        private System.Windows.Forms.ErrorProvider errorProvider1;
     }
 }
 
