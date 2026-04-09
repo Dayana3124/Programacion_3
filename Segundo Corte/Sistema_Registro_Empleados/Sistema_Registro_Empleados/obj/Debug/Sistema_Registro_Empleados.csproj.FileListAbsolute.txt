@@ -8,3 +8,13 @@ C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Sistema_Registr
 C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Sistema_Registro_Empleados\Sistema_Registro_Empleados\obj\Debug\Sistema_Registro_Empleados.csproj.CoreCompileInputs.cache
 C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Sistema_Registro_Empleados\Sistema_Registro_Empleados\obj\Debug\Sistema_Registro_Empleados.exe
 C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Sistema_Registro_Empleados\Sistema_Registro_Empleados\obj\Debug\Sistema_Registro_Empleados.pdb
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Segundo Corte\Sistema_Registro_Empleados\Sistema_Registro_Empleados\bin\Debug\Sistema_Registro_Empleados.exe.config
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Segundo Corte\Sistema_Registro_Empleados\Sistema_Registro_Empleados\bin\Debug\Sistema_Registro_Empleados.exe
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Segundo Corte\Sistema_Registro_Empleados\Sistema_Registro_Empleados\bin\Debug\Sistema_Registro_Empleados.pdb
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Segundo Corte\Sistema_Registro_Empleados\Sistema_Registro_Empleados\obj\Debug\Sistema_Registro_Empleados.csproj.AssemblyReference.cache
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Segundo Corte\Sistema_Registro_Empleados\Sistema_Registro_Empleados\obj\Debug\Sistema_Registro_Empleados.Form1.resources
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Segundo Corte\Sistema_Registro_Empleados\Sistema_Registro_Empleados\obj\Debug\Sistema_Registro_Empleados.Properties.Resources.resources
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Segundo Corte\Sistema_Registro_Empleados\Sistema_Registro_Empleados\obj\Debug\Sistema_Registro_Empleados.csproj.GenerateResource.cache
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Segundo Corte\Sistema_Registro_Empleados\Sistema_Registro_Empleados\obj\Debug\Sistema_Registro_Empleados.csproj.CoreCompileInputs.cache
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Segundo Corte\Sistema_Registro_Empleados\Sistema_Registro_Empleados\obj\Debug\Sistema_Registro_Empleados.exe
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Segundo Corte\Sistema_Registro_Empleados\Sistema_Registro_Empleados\obj\Debug\Sistema_Registro_Empleados.pdb

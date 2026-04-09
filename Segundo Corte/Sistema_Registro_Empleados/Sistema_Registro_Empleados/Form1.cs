@@ -23,68 +23,114 @@ namespace Sistema_Registro_Empleados
 
         }
 
-        private void btnRegistrar_Click(object sender, EventArgs e)
+      
+        
+
+        private void lblResultadoSueldo_Click(object sender, EventArgs e)
         {
+
+        }
+
+       
+        
+
+        private void txtNombres_Validating(object sender, CancelEventArgs e)
+        {
+
+            if (txtNombres.Text.Trim() == "")
+            {
+                errorProvider1.SetError(txtNombres, "Ingrese nombres");
+                e.Cancel = true;
+            }
+            else
+                errorProvider1.SetError(txtNombres, "");
+        }
+
+        private void txtApellidos_Validating(object sender, CancelEventArgs e)
+        {
+            if (txtApellidos.Text.Trim() == "")
+            {
+                errorProvider1.SetError(txtApellidos, "Ingrese apellidos");
+                e.Cancel = true;
+            }
+            else
+                errorProvider1.SetError(txtApellidos, "");
+        }
+        private void txtEmail_Validating(object sender, CancelEventArgs e)
+        {
+            string patron = @"^[^@\s]+@[^@\s]+\.[^@\s]+$";
+
+            if (!Regex.IsMatch(txtEmail.Text, patron))
+            {
+                errorProvider1.SetError(txtEmail, "Correo inválido");
+                e.Cancel = true;
+            }
+            else
+                errorProvider1.SetError(txtEmail, "");
+        }
+        private void txtIdentificacion_Validating(object sender, CancelEventArgs e)
+        {
+            if (!Regex.IsMatch(txtIdentificacion.Text, @"^\d{10}$"))
+            {
+                errorProvider1.SetError(txtIdentificacion, "Debe tener 10 dígitos");
+                e.Cancel = true;
+            }
+            else
+                errorProvider1.SetError(txtIdentificacion, "");
+        }
+
+        
+        
+
+        private void cmbDepartamento_Validating(object sender, CancelEventArgs e)
+        {
+            if (cmbDepartamento.SelectedIndex == -1)
+            {
+                errorProvider1.SetError(cmbDepartamento, "Seleccione un departamento");
+                e.Cancel = true;
+            }
+            else
+                errorProvider1.SetError(cmbDepartamento, "");
+        }
+        private async void btnRegistrar_Click(object sender, EventArgs e)
+        {
+            errorProvider1.Clear();
+
+           
+            if (!this.ValidateChildren())
+            {
+                btnRegistrar.BackColor = Color.Red;
+                btnRegistrar.ForeColor = Color.White;
+
+                await Task.Delay(1000);
+
+                btnRegistrar.BackColor = Color.PaleGoldenrod;
+                btnRegistrar.ForeColor = Color.Black;
+
+                return;
+            }
+
+            
+            double sueldoBase = (double)numSueldoBase.Value;
+            double sueldoNeto = sueldoBase - (sueldoBase * 0.10);
+
+            lblResultadoSueldo.Text = "Sueldo Neto: " + sueldoNeto.ToString("C");
+
+            
             btnRegistrar.BackColor = Color.Green;
             btnRegistrar.ForeColor = Color.White;
 
-            bool valido = true;
+            await Task.Delay(1000);
 
-            // Mostrar errores SOLO si falla
-            if (txtNombres.Text.Trim() == "")
-            {
-                lblErrorNombres.Visible = true;
-                valido = false;
-            }
+            btnRegistrar.BackColor = Color.PaleGoldenrod;
+            btnRegistrar.ForeColor = Color.Black;
 
-            if (txtApellidos.Text.Trim() == "")
-            {
-                lblErrorApellidos.Visible = true;
-                valido = false;
-            }
+            MessageBox.Show("Empleado registrado correctamente");
 
-            if (txtEmail.Text.Trim() == "")
-            {
-                lblErrorEmail.Visible = true;
-                valido = false;
-            }
-            else
-            {
-                string patronEmail = @"^[^@\s]+@[^@\s]+\.[^@\s]+$";
-                if (!Regex.IsMatch(txtEmail.Text, patronEmail))
-                {
-                    lblErrorEmail.Text = "Correo inválido";
-                    lblErrorEmail.Visible = true;
-                    valido = false;
-                }
-            }
-
-            if (!Regex.IsMatch(txtIdentificacion.Text, @"^\d{10}$"))
-            {
-                lblErrorIdentificacion.Visible = true;
-                valido = false;
-            }
-
-            if (cmbDepartamento.SelectedIndex == -1)
-            {
-                lblErrorDepartamento.Visible = true;
-                valido = false;
-            }
-
-            if (valido)
-            {
-                double sueldoBase = (double)numSueldoBase.Value;
-                double sueldoNeto = sueldoBase - (sueldoBase * 0.10);
-
-                lblResultadoSueldo.Text = "Sueldo Neto: " + sueldoNeto.ToString("C");
-            }
         }
 
         private void btnLimpiar_Click(object sender, EventArgs e)
         {
-            btnLimpiar.BackColor = Color.Red;
-            btnLimpiar.ForeColor = Color.White;
-
             txtNombres.Clear();
             txtApellidos.Clear();
             txtEmail.Clear();
@@ -95,19 +141,9 @@ namespace Sistema_Registro_Empleados
 
             lblResultadoSueldo.Text = "Sueldo Neto: $";
 
-            
-            lblErrorNombres.Visible = false;
-            lblErrorApellidos.Visible = false;
-            lblErrorEmail.Visible = false;
-            lblErrorIdentificacion.Visible = false;
-            lblErrorDepartamento.Visible = false;
-        }
-        
-
-        private void lblResultadoSueldo_Click(object sender, EventArgs e)
-        {
-
+            errorProvider1.Clear();
         }
     }
+    
     
 }

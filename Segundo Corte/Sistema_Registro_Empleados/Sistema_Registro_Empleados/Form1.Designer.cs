@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.txtNombres = new System.Windows.Forms.TextBox();
             this.txtApellidos = new System.Windows.Forms.TextBox();
             this.txtEmail = new System.Windows.Forms.TextBox();
@@ -44,12 +45,9 @@
             this.btnRegistrar = new System.Windows.Forms.Button();
             this.btnLimpiar = new System.Windows.Forms.Button();
             this.lblResultadoSueldo = new System.Windows.Forms.Label();
-            this.lblErrorNombres = new System.Windows.Forms.Label();
-            this.lblErrorApellidos = new System.Windows.Forms.Label();
-            this.lblErrorEmail = new System.Windows.Forms.Label();
-            this.lblErrorIdentificacion = new System.Windows.Forms.Label();
-            this.lblErrorDepartamento = new System.Windows.Forms.Label();
+            this.errorProvider1 = new System.Windows.Forms.ErrorProvider(this.components);
             ((System.ComponentModel.ISupportInitialize)(this.numSueldoBase)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.errorProvider1)).BeginInit();
             this.SuspendLayout();
             // 
             // txtNombres
@@ -59,6 +57,7 @@
             this.txtNombres.Name = "txtNombres";
             this.txtNombres.Size = new System.Drawing.Size(204, 22);
             this.txtNombres.TabIndex = 0;
+            this.txtNombres.Validating += new System.ComponentModel.CancelEventHandler(this.txtNombres_Validating);
             // 
             // txtApellidos
             // 
@@ -67,6 +66,7 @@
             this.txtApellidos.Name = "txtApellidos";
             this.txtApellidos.Size = new System.Drawing.Size(204, 22);
             this.txtApellidos.TabIndex = 1;
+            this.txtApellidos.Validating += new System.ComponentModel.CancelEventHandler(this.txtApellidos_Validating);
             // 
             // txtEmail
             // 
@@ -75,6 +75,7 @@
             this.txtEmail.Name = "txtEmail";
             this.txtEmail.Size = new System.Drawing.Size(204, 22);
             this.txtEmail.TabIndex = 2;
+            this.txtEmail.Validating += new System.ComponentModel.CancelEventHandler(this.txtEmail_Validating);
             // 
             // txtIdentificacion
             // 
@@ -83,6 +84,7 @@
             this.txtIdentificacion.Name = "txtIdentificacion";
             this.txtIdentificacion.Size = new System.Drawing.Size(204, 22);
             this.txtIdentificacion.TabIndex = 3;
+            this.txtIdentificacion.Validating += new System.ComponentModel.CancelEventHandler(this.txtIdentificacion_Validating);
             // 
             // label1
             // 
@@ -134,6 +136,7 @@
             this.label5.Size = new System.Drawing.Size(109, 15);
             this.label5.TabIndex = 8;
             this.label5.Text = "IDENTIFICACIÓN:";
+            this.label5.Validating += new System.ComponentModel.CancelEventHandler(this.txtIdentificacion_Validating);
             // 
             // numSueldoBase
             // 
@@ -180,6 +183,7 @@
             this.cmbDepartamento.Name = "cmbDepartamento";
             this.cmbDepartamento.Size = new System.Drawing.Size(121, 23);
             this.cmbDepartamento.TabIndex = 11;
+            this.cmbDepartamento.Validating += new System.ComponentModel.CancelEventHandler(this.cmbDepartamento_Validating);
             // 
             // label7
             // 
@@ -226,71 +230,15 @@
             this.lblResultadoSueldo.Text = "Resultado Sueldo";
             this.lblResultadoSueldo.Click += new System.EventHandler(this.lblResultadoSueldo_Click);
             // 
-            // lblErrorNombres
+            // errorProvider1
             // 
-            this.lblErrorNombres.AutoSize = true;
-            this.lblErrorNombres.ForeColor = System.Drawing.Color.Red;
-            this.lblErrorNombres.Location = new System.Drawing.Point(103, 114);
-            this.lblErrorNombres.Name = "lblErrorNombres";
-            this.lblErrorNombres.Size = new System.Drawing.Size(141, 13);
-            this.lblErrorNombres.TabIndex = 16;
-            this.lblErrorNombres.Text = "* este campo es obligatorio *";
-            this.lblErrorNombres.Visible = false;
-            // 
-            // lblErrorApellidos
-            // 
-            this.lblErrorApellidos.AutoSize = true;
-            this.lblErrorApellidos.ForeColor = System.Drawing.Color.Red;
-            this.lblErrorApellidos.Location = new System.Drawing.Point(512, 117);
-            this.lblErrorApellidos.Name = "lblErrorApellidos";
-            this.lblErrorApellidos.Size = new System.Drawing.Size(141, 13);
-            this.lblErrorApellidos.TabIndex = 17;
-            this.lblErrorApellidos.Text = "* este campo es obligatorio *";
-            this.lblErrorApellidos.Visible = false;
-            // 
-            // lblErrorEmail
-            // 
-            this.lblErrorEmail.AutoSize = true;
-            this.lblErrorEmail.ForeColor = System.Drawing.Color.Red;
-            this.lblErrorEmail.Location = new System.Drawing.Point(103, 164);
-            this.lblErrorEmail.Name = "lblErrorEmail";
-            this.lblErrorEmail.Size = new System.Drawing.Size(141, 13);
-            this.lblErrorEmail.TabIndex = 18;
-            this.lblErrorEmail.Text = "* este campo es obligatorio *";
-            this.lblErrorEmail.Visible = false;
-            // 
-            // lblErrorIdentificacion
-            // 
-            this.lblErrorIdentificacion.AutoSize = true;
-            this.lblErrorIdentificacion.ForeColor = System.Drawing.Color.Red;
-            this.lblErrorIdentificacion.Location = new System.Drawing.Point(512, 166);
-            this.lblErrorIdentificacion.Name = "lblErrorIdentificacion";
-            this.lblErrorIdentificacion.Size = new System.Drawing.Size(141, 13);
-            this.lblErrorIdentificacion.TabIndex = 19;
-            this.lblErrorIdentificacion.Text = "* este campo es obligatorio *";
-            this.lblErrorIdentificacion.Visible = false;
-            // 
-            // lblErrorDepartamento
-            // 
-            this.lblErrorDepartamento.AutoSize = true;
-            this.lblErrorDepartamento.ForeColor = System.Drawing.Color.Red;
-            this.lblErrorDepartamento.Location = new System.Drawing.Point(118, 273);
-            this.lblErrorDepartamento.Name = "lblErrorDepartamento";
-            this.lblErrorDepartamento.Size = new System.Drawing.Size(141, 13);
-            this.lblErrorDepartamento.TabIndex = 21;
-            this.lblErrorDepartamento.Text = "* este campo es obligatorio *";
-            this.lblErrorDepartamento.Visible = false;
+            this.errorProvider1.ContainerControl = this;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.lblErrorDepartamento);
-            this.Controls.Add(this.lblErrorIdentificacion);
-            this.Controls.Add(this.lblErrorEmail);
-            this.Controls.Add(this.lblErrorApellidos);
-            this.Controls.Add(this.lblErrorNombres);
             this.Controls.Add(this.lblResultadoSueldo);
             this.Controls.Add(this.btnLimpiar);
             this.Controls.Add(this.btnRegistrar);
@@ -311,6 +259,7 @@
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.numSueldoBase)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.errorProvider1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -334,11 +283,7 @@
         private System.Windows.Forms.Button btnRegistrar;
         private System.Windows.Forms.Button btnLimpiar;
         private System.Windows.Forms.Label lblResultadoSueldo;
-        private System.Windows.Forms.Label lblErrorNombres;
-        private System.Windows.Forms.Label lblErrorApellidos;
-        private System.Windows.Forms.Label lblErrorEmail;
-        private System.Windows.Forms.Label lblErrorIdentificacion;
-        private System.Windows.Forms.Label lblErrorDepartamento;
+        private System.Windows.Forms.ErrorProvider errorProvider1;
     }
 }
 
