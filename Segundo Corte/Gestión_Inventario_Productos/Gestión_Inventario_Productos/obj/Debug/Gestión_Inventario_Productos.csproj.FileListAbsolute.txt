@@ -1,0 +1,10 @@
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Gestión_Inventario_Productos\Gestión_Inventario_Productos\bin\Debug\Gestión_Inventario_Productos.exe.config
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Gestión_Inventario_Productos\Gestión_Inventario_Productos\bin\Debug\Gestión_Inventario_Productos.exe
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Gestión_Inventario_Productos\Gestión_Inventario_Productos\bin\Debug\Gestión_Inventario_Productos.pdb
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Gestión_Inventario_Productos\Gestión_Inventario_Productos\obj\Debug\Gestión_Inventario_Productos.csproj.AssemblyReference.cache
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Gestión_Inventario_Productos\Gestión_Inventario_Productos\obj\Debug\Gestión_Inventario_Productos.Form1.resources
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Gestión_Inventario_Productos\Gestión_Inventario_Productos\obj\Debug\Gestión_Inventario_Productos.Properties.Resources.resources
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Gestión_Inventario_Productos\Gestión_Inventario_Productos\obj\Debug\Gestión_Inventario_Productos.csproj.GenerateResource.cache
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Gestión_Inventario_Productos\Gestión_Inventario_Productos\obj\Debug\Gestión_Inventario_Productos.csproj.CoreCompileInputs.cache
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Gestión_Inventario_Productos\Gestión_Inventario_Productos\obj\Debug\Gestión_Inventario_Productos.exe
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Gestión_Inventario_Productos\Gestión_Inventario_Productos\obj\Debug\Gestión_Inventario_Productos.pdb
