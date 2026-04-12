@@ -1,0 +1,10 @@
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Control_Ventas_Diarias\Control_Ventas_Diarias\bin\Debug\Control_Ventas_Diarias.exe.config
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Control_Ventas_Diarias\Control_Ventas_Diarias\bin\Debug\Control_Ventas_Diarias.exe
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Control_Ventas_Diarias\Control_Ventas_Diarias\bin\Debug\Control_Ventas_Diarias.pdb
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Control_Ventas_Diarias\Control_Ventas_Diarias\obj\Debug\Control_Ventas_Diarias.csproj.AssemblyReference.cache
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Control_Ventas_Diarias\Control_Ventas_Diarias\obj\Debug\Control_Ventas_Diarias.Form1.resources
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Control_Ventas_Diarias\Control_Ventas_Diarias\obj\Debug\Control_Ventas_Diarias.Properties.Resources.resources
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Control_Ventas_Diarias\Control_Ventas_Diarias\obj\Debug\Control_Ventas_Diarias.csproj.GenerateResource.cache
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Control_Ventas_Diarias\Control_Ventas_Diarias\obj\Debug\Control_Ventas_Diarias.csproj.CoreCompileInputs.cache
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Control_Ventas_Diarias\Control_Ventas_Diarias\obj\Debug\Control_Ventas_Diarias.exe
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Control_Ventas_Diarias\Control_Ventas_Diarias\obj\Debug\Control_Ventas_Diarias.pdb
