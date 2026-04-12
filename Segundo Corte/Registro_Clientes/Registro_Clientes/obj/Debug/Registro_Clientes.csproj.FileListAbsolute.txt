@@ -1,0 +1,10 @@
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Registro_Clientes\Registro_Clientes\bin\Debug\Registro_Clientes.exe.config
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Registro_Clientes\Registro_Clientes\bin\Debug\Registro_Clientes.exe
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Registro_Clientes\Registro_Clientes\bin\Debug\Registro_Clientes.pdb
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Registro_Clientes\Registro_Clientes\obj\Debug\Registro_Clientes.csproj.AssemblyReference.cache
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Registro_Clientes\Registro_Clientes\obj\Debug\Registro_Clientes.Form1.resources
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Registro_Clientes\Registro_Clientes\obj\Debug\Registro_Clientes.Properties.Resources.resources
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Registro_Clientes\Registro_Clientes\obj\Debug\Registro_Clientes.csproj.GenerateResource.cache
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Registro_Clientes\Registro_Clientes\obj\Debug\Registro_Clientes.csproj.CoreCompileInputs.cache
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Registro_Clientes\Registro_Clientes\obj\Debug\Registro_Clientes.exe
+C:\Users\daka3\OneDrive\Escritorio\TRABAJOS KAROL\Programacion_3\Registro_Clientes\Registro_Clientes\obj\Debug\Registro_Clientes.pdb

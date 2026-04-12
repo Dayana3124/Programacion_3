@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Registro_Clientes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67AF8E91-E127-4364-A9EB-5F42FDB1C83E}|Registro_Clientes\\Registro_Clientes.csproj|c:\\users\\daka3\\onedrive\\escritorio\\trabajos karol\\programacion_3\\registro_clientes\\registro_clientes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67AF8E91-E127-4364-A9EB-5F42FDB1C83E}|Registro_Clientes\\Registro_Clientes.csproj|solutionrelative:registro_clientes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AF8E91-E127-4364-A9EB-5F42FDB1C83E}|Registro_Clientes\\Registro_Clientes.csproj|c:\\users\\daka3\\onedrive\\escritorio\\trabajos karol\\programacion_3\\registro_clientes\\registro_clientes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67AF8E91-E127-4364-A9EB-5F42FDB1C83E}|Registro_Clientes\\Registro_Clientes.csproj|solutionrelative:registro_clientes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Registro_Clientes\\Registro_Clientes\\Form1.cs",
+              "RelativeDocumentMoniker": "Registro_Clientes\\Form1.cs",
+              "ToolTip": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Registro_Clientes\\Registro_Clientes\\Form1.cs",
+              "RelativeToolTip": "Registro_Clientes\\Form1.cs",
+              "ViewState": "AgIAAD8AAACAyszMzMwswEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T17:26:13.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Registro_Clientes\\Registro_Clientes\\Form1.cs",
+              "RelativeDocumentMoniker": "Registro_Clientes\\Form1.cs",
+              "ToolTip": "C:\\Users\\daka3\\OneDrive\\Escritorio\\TRABAJOS KAROL\\Programacion_3\\Registro_Clientes\\Registro_Clientes\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Registro_Clientes\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T17:18:37.752Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
